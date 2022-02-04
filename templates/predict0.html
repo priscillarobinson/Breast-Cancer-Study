@@ -1,0 +1,150 @@
+<html>
+
+{% extends "layout.html" %}
+{% block content %}
+
+<div class="container">
+	<div class="row">
+		<div class="col">
+
+<form method="post">
+
+	<br><br><br><br><br>
+	Age:<input type="text" name="f1" /><br>
+
+	<select name="f2">
+		<option value = 0 selected>0</option>
+		<option value = 2 >2</option>
+	</select><br>
+
+	<select name="f3">
+		<option value = 2 selected>1</option>
+		<option value = 2>2</option>
+	</select><br>
+
+	<select name="f4">
+		<option value = 1 selected>1</option>
+		<option value = 2>2</option>
+	</select><br>
+
+	<select name="f5">
+		<option value = 3 selected>1</option>
+		<option value = 2>2</option>
+	</select><br>
+
+	<select name="f6">
+		<option value = 11.0 selected>1</option>
+		<option value = 2>2</option>
+	</select><br>
+
+	<select name="f7">
+		<option value = 0 selected>1</option>
+		<option value = 2>2</option>
+	</select><br>
+
+	<select name="f8">
+		<option value = 35.0 selected>1</option>
+		<option value = 2>2</option>
+	</select><br>
+
+	<select name="f9">
+		<option value = 2.0 selected>1</option>
+		<option value = 2>2</option>
+	</select><br>
+
+	<select name="f10">
+		<option value = 1 selected>1</option>
+		<option value = 2>2</option>
+	</select><br>
+
+	<select name="f11">
+		<option value = 1 selected>1</option>
+		<option value = 2>2</option>
+	</select><br>
+
+	<select name="f12">
+		<option value = 0 selected>1</option>
+		<option value = 2>2</option>
+	</select><br>
+
+	<select name="f13">
+		<option value = 2 selected>1</option>
+		<option value = 2>2</option>
+	</select><br>
+
+	<select name="f14">
+		<option value = 1 selected>1</option>
+		<option value = 2>2</option>
+	</select><br>
+
+	<select name="f15">
+		<option value = 0 selected>1</option>
+		<option value = 2>2</option>
+	</select><br>
+
+	<select name="f16">
+		<option value = 0 selected>1</option>
+		<option value = 2>2</option>
+	</select><br>
+
+	<select name="f17">
+		<option value = 0 selected>1</option>
+		<option value = 2>2</option>
+	</select><br>
+
+	<select name="f18">
+		<option value = 9 selected>1</option>
+		<option value = 2>2</option>
+	</select><br>
+
+	<select name="f19">
+		<option value = 1 selected>1</option>
+		<option value = 2>2</option>
+	</select><br>
+
+	<input type="submit" value="Submit">
+</form>
+</div>
+
+<div class="col">
+	<br><br><br><br><br>
+{% if values != null %}
+	<h3>Results</h3>
+
+	
+	f1:{{values[0]}} <br>
+	f2:{{values[1]}} <br>
+	f3:{{values[2]}} <br>
+	f4:{{values[3]}} <br>
+	f5:{{values[4]}} <br>
+	f6:{{values[5]}} <br>
+	f7:{{values[6]}} <br>
+	f8:{{values[7]}} <br>
+	f9:{{values[8]}} <br>
+	f10:{{values[9]}} <br>
+	f11:{{values[10]}} <br>
+	f12:{{values[11]}} <br>
+	f13:{{values[12]}} <br>
+	f14:{{values[13]}} <br>
+	f15:{{values[14]}} <br>
+	f16:{{values[15]}} <br>
+	f17:{{values[16]}} <br>
+	f18:{{values[17]}} <br>
+	f19:{{values[18]}} <br>
+
+{% if outcome == 1 %}
+	<h4>Not Good</h4>
+{% else %}
+	<h3>Good</h3>
+{% endif %}
+
+{% endif %}
+
+</div>
+</div>	
+</div>
+
+
+{% endblock %}
+
+</html>

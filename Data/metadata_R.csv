@@ -1,0 +1,1905 @@
+patient_id,type_of_breast_surgery,cancer_type_detailed,pam50_+_claudin-low_subtype,chemotherapy,radio_therapy
+0,MASTECTOMY,Breast Invasive Ductal Carcinoma,claudin-low,0,1
+2,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+5,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,1,0
+6,MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,LumB,1,1
+8,MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,LumB,1,1
+10,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,1
+14,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,1,1
+22,BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,claudin-low,0,1
+28,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,1
+35,MASTECTOMY,Breast Invasive Lobular Carcinoma,Her2,0,0
+36,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,1
+39,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,1
+45,MASTECTOMY,Breast Invasive Ductal Carcinoma,claudin-low,1,1
+46,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,1
+48,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,claudin-low,1,1
+50,BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,Normal,1,1
+53,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,1
+54,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,1
+56,MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,LumB,0,0
+60,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,1,1
+62,MASTECTOMY,Breast Invasive Ductal Carcinoma,Basal,1,1
+64,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,0
+66,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,1
+68,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+79,MASTECTOMY,Breast Invasive Ductal Carcinoma,Her2,1,1
+81,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,claudin-low,0,1
+83,BREAST CONSERVING,Breast Invasive Lobular Carcinoma,LumB,0,1
+93,BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,LumB,0,1
+95,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,1
+97,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,1
+100,MASTECTOMY,Breast Invasive Ductal Carcinoma,Basal,1,1
+101,MASTECTOMY,Breast Invasive Lobular Carcinoma,Normal,0,1
+102,MASTECTOMY,Breast Invasive Lobular Carcinoma,LumB,1,1
+106,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,1,1
+107,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,0
+108,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,claudin-low,1,1
+109,,Breast Invasive Ductal Carcinoma,Basal,0,0
+111,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+112,MASTECTOMY,Breast Invasive Lobular Carcinoma,LumA,0,1
+113,MASTECTOMY,Breast Invasive Ductal Carcinoma,Her2,1,1
+114,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+115,MASTECTOMY,Breast Invasive Ductal Carcinoma,Basal,1,1
+116,MASTECTOMY,Breast Invasive Lobular Carcinoma,Normal,1,1
+117,BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,LumA,0,1
+119,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,1
+120,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,1
+121,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,1
+122,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+123,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,0
+124,BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,LumA,1,1
+125,BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,LumB,0,0
+126,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,1
+127,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Normal,1,1
+128,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,claudin-low,0,1
+129,MASTECTOMY,Breast Invasive Ductal Carcinoma,Her2,1,1
+130,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+131,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,1,1
+133,BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,LumA,1,1
+134,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,1
+135,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,1
+136,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,0
+138,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,0
+139,BREAST CONSERVING,Breast Invasive Lobular Carcinoma,LumA,0,1
+140,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,1
+142,MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,LumA,0,0
+143,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+144,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,1
+145,BREAST CONSERVING,Breast Invasive Lobular Carcinoma,LumA,0,1
+146,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,1
+147,MASTECTOMY,Breast Invasive Lobular Carcinoma,LumA,0,1
+148,MASTECTOMY,Breast Invasive Ductal Carcinoma,Her2,0,0
+149,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Basal,0,1
+150,MASTECTOMY,Breast Invasive Ductal Carcinoma,Basal,0,0
+151,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,1
+152,MASTECTOMY,Breast Invasive Ductal Carcinoma,Her2,0,0
+154,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+155,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,claudin-low,0,1
+157,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,claudin-low,0,1
+162,BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,LumA,0,1
+163,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Basal,0,0
+164,MASTECTOMY,Breast Invasive Ductal Carcinoma,claudin-low,1,1
+165,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,1,1
+166,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,1,1
+167,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,1
+168,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,claudin-low,0,1
+170,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,1
+171,MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,Normal,0,1
+172,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,1,1
+173,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,1
+174,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,claudin-low,1,1
+175,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+176,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,1,1
+177,MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,LumA,0,1
+178,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,1
+179,MASTECTOMY,Breast Invasive Ductal Carcinoma,claudin-low,1,1
+180,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+181,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+184,MASTECTOMY,Breast Invasive Mixed Mucinous Carcinoma,LumA,0,0
+188,MASTECTOMY,Breast Invasive Lobular Carcinoma,Her2,1,1
+189,MASTECTOMY,Breast Invasive Ductal Carcinoma,Normal,1,1
+191,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Basal,0,1
+192,BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,claudin-low,0,1
+193,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,0
+194,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,1,1
+195,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,1
+197,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,1,1
+198,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,1,1
+199,BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,LumA,0,1
+200,MASTECTOMY,Breast Invasive Ductal Carcinoma,Basal,0,1
+201,MASTECTOMY,Breast Invasive Ductal Carcinoma,Basal,1,1
+202,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,1,1
+203,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,1,1
+204,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+205,BREAST CONSERVING,Breast Invasive Lobular Carcinoma,Normal,0,1
+206,MASTECTOMY,Breast Invasive Ductal Carcinoma,claudin-low,1,1
+207,MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,LumA,0,0
+209,MASTECTOMY,Breast Invasive Ductal Carcinoma,claudin-low,0,0
+211,MASTECTOMY,Breast Invasive Ductal Carcinoma,claudin-low,0,0
+214,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Basal,1,1
+215,MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,LumB,0,1
+218,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,1,1
+220,MASTECTOMY,Breast Invasive Ductal Carcinoma,claudin-low,0,0
+221,MASTECTOMY,Breast Invasive Ductal Carcinoma,Her2,0,0
+222,BREAST CONSERVING,Breast Invasive Lobular Carcinoma,claudin-low,1,1
+223,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,1,1
+224,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+225,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,0
+226,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+227,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,0
+228,MASTECTOMY,Breast Invasive Lobular Carcinoma,Normal,0,0
+229,BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,LumA,0,1
+230,MASTECTOMY,Breast Invasive Ductal Carcinoma,Her2,0,0
+231,BREAST CONSERVING,Breast Invasive Mixed Mucinous Carcinoma,LumA,0,0
+232,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,0
+233,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,0
+234,MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,LumB,0,1
+235,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,1,1
+236,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,1,1
+238,MASTECTOMY,Breast Invasive Ductal Carcinoma,claudin-low,1,1
+239,BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,LumA,0,1
+241,MASTECTOMY,Breast Invasive Ductal Carcinoma,claudin-low,0,0
+242,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,0
+243,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,1,1
+244,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Normal,0,0
+245,BREAST CONSERVING,Breast Invasive Lobular Carcinoma,LumA,0,0
+247,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+248,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,1,1
+249,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Her2,0,1
+253,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Normal,0,0
+256,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,0
+257,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,1,1
+258,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+259,,Breast Invasive Ductal Carcinoma,Basal,1,0
+260,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,1
+261,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,1
+262,MASTECTOMY,Breast Invasive Ductal Carcinoma,Her2,0,0
+263,MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,LumA,0,0
+264,MASTECTOMY,Breast Invasive Ductal Carcinoma,Her2,0,0
+265,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,claudin-low,0,1
+266,MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,LumA,0,1
+268,,Breast Invasive Ductal Carcinoma,LumB,0,0
+269,MASTECTOMY,Breast Invasive Ductal Carcinoma,claudin-low,1,1
+270,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,0
+272,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,0
+273,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,1
+275,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,claudin-low,0,1
+278,,Breast Invasive Ductal Carcinoma,Basal,1,0
+279,BREAST CONSERVING,Breast Invasive Lobular Carcinoma,claudin-low,0,1
+280,MASTECTOMY,Breast Invasive Ductal Carcinoma,Normal,0,1
+282,BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,claudin-low,1,1
+284,,Breast Invasive Ductal Carcinoma,claudin-low,0,0
+285,,Breast Invasive Ductal Carcinoma,claudin-low,0,0
+286,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,claudin-low,0,0
+287,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,0
+288,MASTECTOMY,Breast Invasive Ductal Carcinoma,Normal,1,0
+289,MASTECTOMY,Breast Invasive Ductal Carcinoma,claudin-low,0,1
+290,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+291,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,1,0
+292,MASTECTOMY,Breast Invasive Ductal Carcinoma,Her2,0,0
+293,MASTECTOMY,Breast Invasive Ductal Carcinoma,claudin-low,0,0
+294,MASTECTOMY,Breast Invasive Ductal Carcinoma,Normal,1,1
+295,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,0
+301,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,1
+302,MASTECTOMY,Breast Invasive Lobular Carcinoma,LumA,0,1
+303,MASTECTOMY,Breast Invasive Ductal Carcinoma,claudin-low,0,0
+304,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,1
+305,MASTECTOMY,Breast Invasive Ductal Carcinoma,Normal,1,0
+306,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,1
+307,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,claudin-low,1,1
+308,,Breast,LumA,0,0
+309,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+310,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,1
+311,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,0
+312,MASTECTOMY,Breast Invasive Lobular Carcinoma,LumB,0,0
+313,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,0
+314,MASTECTOMY,Breast Invasive Ductal Carcinoma,Her2,0,0
+315,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,1,1
+316,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Basal,0,1
+317,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+318,MASTECTOMY,Breast,Normal,0,0
+319,MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,LumB,0,1
+320,BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,LumA,0,1
+321,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,1,0
+322,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,1
+324,,Breast Invasive Ductal Carcinoma,LumA,1,1
+325,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,1
+328,MASTECTOMY,,LumB,0,1
+336,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,1
+339,MASTECTOMY,Breast Invasive Mixed Mucinous Carcinoma,LumB,0,0
+340,MASTECTOMY,Breast Invasive Ductal Carcinoma,Basal,0,1
+341,MASTECTOMY,,LumA,0,1
+342,MASTECTOMY,Breast Invasive Lobular Carcinoma,Normal,0,0
+343,MASTECTOMY,Breast Invasive Ductal Carcinoma,Normal,0,0
+344,BREAST CONSERVING,Breast Invasive Lobular Carcinoma,Normal,0,1
+345,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,1,0
+346,MASTECTOMY,Breast Invasive Ductal Carcinoma,Her2,0,0
+348,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,1
+349,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,0
+350,,Breast Invasive Ductal Carcinoma,Basal,0,0
+352,MASTECTOMY,Breast Invasive Ductal Carcinoma,claudin-low,1,1
+353,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,1
+354,MASTECTOMY,Breast Invasive Ductal Carcinoma,claudin-low,0,0
+356,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+358,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,1,1
+359,,Breast Invasive Ductal Carcinoma,LumA,0,1
+360,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,1
+361,MASTECTOMY,Breast Invasive Ductal Carcinoma,Her2,0,0
+362,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,1,1
+363,MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,LumB,0,0
+364,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,1,1
+365,BREAST CONSERVING,Breast Invasive Mixed Mucinous Carcinoma,claudin-low,0,1
+366,MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,LumA,0,0
+367,BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,claudin-low,0,1
+368,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,1,1
+369,MASTECTOMY,Breast Invasive Lobular Carcinoma,LumB,1,1
+370,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,1,1
+371,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,1
+372,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Basal,1,1
+373,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,1
+374,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,0
+375,MASTECTOMY,Breast Invasive Ductal Carcinoma,Normal,0,1
+377,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+378,MASTECTOMY,Breast Invasive Ductal Carcinoma,Her2,1,1
+379,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,1,1
+380,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,1
+381,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Her2,1,1
+382,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,1,1
+383,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,0
+384,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,1
+385,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,1,1
+386,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+388,MASTECTOMY,Breast Invasive Ductal Carcinoma,Normal,1,1
+389,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,1,1
+391,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,claudin-low,1,1
+392,MASTECTOMY,Breast Invasive Ductal Carcinoma,Normal,1,0
+393,MASTECTOMY,Breast Invasive Ductal Carcinoma,claudin-low,1,1
+394,BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,LumA,0,1
+395,MASTECTOMY,Breast Invasive Ductal Carcinoma,Her2,0,1
+396,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Basal,1,1
+397,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+398,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,1
+399,MASTECTOMY,Breast Invasive Ductal Carcinoma,Her2,1,1
+400,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,claudin-low,1,0
+401,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,claudin-low,1,1
+402,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,claudin-low,0,1
+404,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+406,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,1,1
+410,BREAST CONSERVING,Breast Invasive Lobular Carcinoma,LumA,0,1
+411,MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,LumA,1,1
+412,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,1
+413,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,1,1
+414,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,claudin-low,0,1
+417,MASTECTOMY,Breast Invasive Ductal Carcinoma,Her2,0,1
+418,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Her2,0,1
+419,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,1
+420,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,claudin-low,1,1
+421,MASTECTOMY,Breast Invasive Ductal Carcinoma,Her2,0,0
+422,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+424,MASTECTOMY,Breast Invasive Ductal Carcinoma,claudin-low,1,1
+425,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,1
+426,MASTECTOMY,Breast Invasive Ductal Carcinoma,Normal,1,1
+427,MASTECTOMY,Breast Invasive Lobular Carcinoma,LumA,0,1
+428,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,1
+429,MASTECTOMY,Breast Invasive Lobular Carcinoma,LumB,0,1
+431,BREAST CONSERVING,Breast Invasive Lobular Carcinoma,LumA,0,1
+434,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,1,0
+436,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Her2,0,1
+437,BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,LumB,0,1
+438,MASTECTOMY,Breast Invasive Ductal Carcinoma,Her2,1,1
+439,MASTECTOMY,Breast Invasive Mixed Mucinous Carcinoma,LumB,0,0
+440,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,1,1
+442,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,claudin-low,0,0
+443,MASTECTOMY,Breast Invasive Ductal Carcinoma,claudin-low,0,1
+444,BREAST CONSERVING,Breast Invasive Lobular Carcinoma,LumB,0,1
+445,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,1,1
+446,MASTECTOMY,Breast Invasive Ductal Carcinoma,claudin-low,1,0
+449,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,1,1
+451,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+452,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,1
+453,MASTECTOMY,Breast Invasive Ductal Carcinoma,Her2,1,1
+454,BREAST CONSERVING,Breast Invasive Mixed Mucinous Carcinoma,LumA,0,1
+455,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,1
+458,MASTECTOMY,Breast Invasive Ductal Carcinoma,Normal,1,1
+459,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,1
+460,BREAST CONSERVING,Breast Invasive Lobular Carcinoma,claudin-low,0,1
+462,MASTECTOMY,Breast Invasive Ductal Carcinoma,claudin-low,0,1
+463,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+464,MASTECTOMY,Breast Invasive Ductal Carcinoma,Basal,1,1
+465,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,0
+466,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,1,1
+467,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Her2,1,0
+468,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,1,1
+469,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,1,1
+470,BREAST CONSERVING,Breast Invasive Lobular Carcinoma,claudin-low,0,1
+471,BREAST CONSERVING,Breast Invasive Mixed Mucinous Carcinoma,LumA,0,1
+472,BREAST CONSERVING,Breast Invasive Lobular Carcinoma,LumB,0,1
+474,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,1,1
+475,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+476,MASTECTOMY,Breast Invasive Ductal Carcinoma,claudin-low,1,1
+478,MASTECTOMY,Breast Invasive Ductal Carcinoma,claudin-low,0,1
+479,MASTECTOMY,Breast Invasive Ductal Carcinoma,Her2,1,1
+480,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+481,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Basal,1,1
+482,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Normal,1,1
+483,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,1,1
+484,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Her2,1,1
+485,MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,LumA,1,1
+486,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,1,1
+487,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Normal,0,1
+488,MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,Basal,0,1
+489,MASTECTOMY,Breast Invasive Ductal Carcinoma,claudin-low,1,0
+490,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,1
+491,MASTECTOMY,Breast Invasive Lobular Carcinoma,LumA,0,1
+492,BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,LumB,0,1
+494,MASTECTOMY,Breast Invasive Ductal Carcinoma,claudin-low,1,1
+495,MASTECTOMY,Breast Invasive Ductal Carcinoma,claudin-low,1,1
+496,MASTECTOMY,Breast Invasive Ductal Carcinoma,Normal,1,1
+497,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+500,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Basal,1,1
+501,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,1,1
+502,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,claudin-low,1,1
+503,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+504,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+505,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+506,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Her2,1,1
+507,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+508,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Normal,0,0
+509,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Basal,0,1
+510,MASTECTOMY,Breast Invasive Ductal Carcinoma,Normal,0,1
+511,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,1
+512,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+513,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,1
+514,BREAST CONSERVING,,LumB,1,1
+516,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Basal,1,1
+517,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+519,MASTECTOMY,Breast Invasive Ductal Carcinoma,claudin-low,1,1
+521,MASTECTOMY,Breast Invasive Lobular Carcinoma,LumA,0,1
+522,,,Her2,0,0
+524,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Normal,1,0
+525,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Basal,1,1
+526,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,0
+527,MASTECTOMY,Breast Invasive Ductal Carcinoma,claudin-low,0,1
+528,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,1,1
+529,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,1,0
+531,MASTECTOMY,Breast Invasive Ductal Carcinoma,Normal,1,1
+532,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,1,1
+534,MASTECTOMY,Breast Invasive Ductal Carcinoma,claudin-low,1,1
+535,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+536,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,1
+537,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,claudin-low,1,1
+538,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,1,1
+540,BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,claudin-low,0,1
+541,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,1,1
+542,MASTECTOMY,Breast Invasive Ductal Carcinoma,Normal,1,1
+544,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,1,1
+545,,Breast Invasive Ductal Carcinoma,Normal,0,1
+550,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,0
+551,MASTECTOMY,Breast Invasive Ductal Carcinoma,Normal,0,1
+552,MASTECTOMY,Breast Invasive Ductal Carcinoma,Her2,1,1
+553,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,1
+554,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,0
+558,MASTECTOMY,Breast Invasive Ductal Carcinoma,claudin-low,0,0
+559,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,1,0
+568,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+569,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,1,1
+570,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,1
+571,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,1
+573,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,claudin-low,0,1
+574,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+575,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,1,1
+576,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,1
+577,BREAST CONSERVING,Breast Invasive Mixed Mucinous Carcinoma,LumB,0,1
+578,MASTECTOMY,Breast Invasive Lobular Carcinoma,Normal,1,1
+579,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,1
+580,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,1,1
+581,MASTECTOMY,Breast Invasive Ductal Carcinoma,Basal,0,1
+582,MASTECTOMY,Breast Invasive Lobular Carcinoma,Basal,0,0
+583,MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,LumA,0,0
+584,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,0
+585,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,1
+586,MASTECTOMY,Breast Invasive Lobular Carcinoma,LumA,0,1
+587,MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,LumA,1,1
+588,MASTECTOMY,Breast Invasive Ductal Carcinoma,Normal,0,0
+589,MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,LumB,0,1
+590,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,1,1
+591,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,0
+593,MASTECTOMY,Breast Invasive Lobular Carcinoma,Her2,1,1
+594,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,1
+596,BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,LumA,0,1
+597,MASTECTOMY,Breast Invasive Ductal Carcinoma,Normal,1,1
+598,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,1
+599,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,1,1
+600,MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,LumA,0,1
+601,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,1,1
+603,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+605,MASTECTOMY,Breast Invasive Lobular Carcinoma,LumA,0,0
+606,MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,LumB,0,0
+607,,Breast Invasive Ductal Carcinoma,LumA,1,1
+608,MASTECTOMY,Breast Invasive Ductal Carcinoma,claudin-low,0,1
+609,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,1,0
+610,MASTECTOMY,Breast Invasive Ductal Carcinoma,claudin-low,0,1
+611,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,0
+613,MASTECTOMY,Breast,claudin-low,1,1
+614,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,1,0
+615,MASTECTOMY,Breast Invasive Ductal Carcinoma,Normal,0,0
+616,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,1
+617,MASTECTOMY,Breast Invasive Mixed Mucinous Carcinoma,claudin-low,0,0
+618,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,0
+619,MASTECTOMY,Breast Invasive Ductal Carcinoma,Normal,1,1
+620,BREAST CONSERVING,Breast,claudin-low,1,1
+621,MASTECTOMY,Breast Invasive Lobular Carcinoma,LumA,0,1
+623,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Normal,0,1
+624,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+626,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,1
+627,MASTECTOMY,Breast Invasive Ductal Carcinoma,claudin-low,0,0
+628,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Normal,0,1
+630,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,1,1
+631,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,1,1
+632,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+634,MASTECTOMY,Breast Invasive Lobular Carcinoma,claudin-low,0,0
+636,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+637,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,1
+638,MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,Normal,0,1
+639,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Basal,1,1
+640,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Normal,0,1
+641,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,claudin-low,0,1
+642,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+643,MASTECTOMY,Breast Invasive Ductal Carcinoma,Her2,0,1
+644,MASTECTOMY,Breast Invasive Ductal Carcinoma,claudin-low,0,1
+646,MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,LumB,0,1
+649,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+650,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,1
+652,MASTECTOMY,Breast Invasive Ductal Carcinoma,Her2,0,0
+653,BREAST CONSERVING,Breast Invasive Lobular Carcinoma,Her2,0,1
+654,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+655,MASTECTOMY,Breast,Normal,0,0
+656,MASTECTOMY,Breast Invasive Ductal Carcinoma,claudin-low,1,1
+657,,Breast Invasive Lobular Carcinoma,claudin-low,0,1
+658,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,claudin-low,1,1
+659,BREAST CONSERVING,Breast,Normal,0,1
+660,MASTECTOMY,Breast Invasive Ductal Carcinoma,Her2,1,1
+661,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+662,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Normal,0,1
+663,,Breast Invasive Ductal Carcinoma,Her2,1,0
+664,MASTECTOMY,Breast Invasive Ductal Carcinoma,Basal,1,1
+666,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,1,1
+869,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Basal,1,1
+872,MASTECTOMY,Breast Invasive Ductal Carcinoma,Normal,0,1
+874,MASTECTOMY,Breast Invasive Ductal Carcinoma,Basal,1,1
+877,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,0
+880,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+882,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,0
+884,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,1,1
+891,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+893,MASTECTOMY,Breast Invasive Ductal Carcinoma,claudin-low,1,1
+895,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,1
+897,,Breast Invasive Ductal Carcinoma,Normal,0,0
+899,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,1,0
+901,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Basal,1,1
+904,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+906,MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,claudin-low,0,1
+2513,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+2517,MASTECTOMY,Breast Invasive Ductal Carcinoma,Her2,0,0
+2536,BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,LumA,0,0
+2556,MASTECTOMY,Breast Invasive Lobular Carcinoma,claudin-low,0,0
+2564,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+2610,MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,LumA,0,0
+2613,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,0
+2614,MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,LumA,1,0
+2616,BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,claudin-low,0,1
+2617,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,1
+2618,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,1
+2624,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+2626,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,1
+2629,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,1
+2632,MASTECTOMY,Breast Invasive Ductal Carcinoma,Her2,1,1
+2634,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,1
+2642,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,1,1
+2643,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,claudin-low,0,1
+2645,MASTECTOMY,Breast Invasive Ductal Carcinoma,Basal,0,1
+2669,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+2686,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,1
+2705,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,1
+2708,MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,LumB,0,0
+2711,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+2712,BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,LumA,0,1
+2718,MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,Basal,1,0
+2721,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+2724,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,claudin-low,0,0
+2725,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+2728,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,1,1
+2730,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,1
+2735,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,1,1
+2742,MASTECTOMY,Breast Invasive Ductal Carcinoma,Her2,1,1
+2744,MASTECTOMY,Breast Invasive Lobular Carcinoma,Normal,0,1
+2745,MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,LumA,0,1
+2747,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+2749,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+2750,MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,LumA,0,0
+2752,MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,LumA,0,0
+2753,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Basal,1,1
+2754,MASTECTOMY,Breast Invasive Lobular Carcinoma,Normal,0,0
+2758,MASTECTOMY,Breast Invasive Ductal Carcinoma,claudin-low,1,0
+2760,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,1
+2763,MASTECTOMY,Breast Invasive Mixed Mucinous Carcinoma,LumB,0,0
+2764,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,claudin-low,0,1
+2765,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,claudin-low,0,1
+2767,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,1
+2769,BREAST CONSERVING,Breast Invasive Lobular Carcinoma,LumB,0,1
+2770,BREAST CONSERVING,Breast Invasive Lobular Carcinoma,LumA,0,0
+2771,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Basal,0,1
+2772,BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,LumB,0,1
+2774,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,0
+2778,MASTECTOMY,Breast Invasive Ductal Carcinoma,NC,0,0
+2779,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+2781,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,0
+2786,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,1
+2790,MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,LumA,0,0
+2791,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+2792,MASTECTOMY,Breast Invasive Ductal Carcinoma,Her2,0,0
+2793,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,0
+2795,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,claudin-low,0,1
+2796,MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,claudin-low,0,1
+2797,MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,LumA,0,0
+2801,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+2803,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,1
+2814,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,1
+2815,BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,Normal,0,1
+2819,MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,LumA,0,0
+2820,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+2821,BREAST CONSERVING,Metaplastic Breast Cancer,claudin-low,0,1
+2823,BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,claudin-low,0,1
+2827,MASTECTOMY,Breast Invasive Ductal Carcinoma,Basal,1,1
+2833,MASTECTOMY,Breast Invasive Ductal Carcinoma,claudin-low,1,1
+2834,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Her2,0,1
+2835,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+2838,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+2840,MASTECTOMY,Breast Invasive Lobular Carcinoma,LumA,0,0
+2842,MASTECTOMY,Breast Invasive Ductal Carcinoma,Basal,1,1
+2843,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+2844,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,0
+2845,MASTECTOMY,Breast Invasive Lobular Carcinoma,claudin-low,0,0
+2846,MASTECTOMY,Breast Invasive Ductal Carcinoma,Basal,0,0
+2847,MASTECTOMY,Breast Invasive Ductal Carcinoma,Her2,0,1
+2848,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+2849,MASTECTOMY,Breast Invasive Ductal Carcinoma,Basal,0,1
+2850,MASTECTOMY,Breast Invasive Ductal Carcinoma,claudin-low,1,1
+2851,BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,LumA,0,1
+2853,BREAST CONSERVING,Breast Invasive Mixed Mucinous Carcinoma,LumB,0,1
+2854,MASTECTOMY,Breast Invasive Lobular Carcinoma,LumA,0,0
+2857,MASTECTOMY,Breast Invasive Ductal Carcinoma,claudin-low,1,1
+2858,MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,LumB,0,0
+2863,MASTECTOMY,Breast Invasive Mixed Mucinous Carcinoma,LumA,0,0
+2867,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+2895,MASTECTOMY,Breast Invasive Ductal Carcinoma,claudin-low,0,0
+2896,MASTECTOMY,Breast Invasive Ductal Carcinoma,claudin-low,0,0
+2900,MASTECTOMY,Breast Invasive Lobular Carcinoma,Normal,0,0
+2901,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,1
+2904,MASTECTOMY,Breast Invasive Ductal Carcinoma,claudin-low,1,1
+2912,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Basal,1,1
+2916,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+2917,MASTECTOMY,Breast Invasive Ductal Carcinoma,Basal,1,1
+2919,MASTECTOMY,Breast Invasive Mixed Mucinous Carcinoma,LumB,0,0
+2922,MASTECTOMY,Breast Invasive Ductal Carcinoma,Her2,1,1
+2923,MASTECTOMY,Breast Invasive Ductal Carcinoma,Her2,1,1
+2927,BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,LumA,0,0
+2929,MASTECTOMY,Breast Invasive Ductal Carcinoma,Her2,1,1
+2931,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,0
+2932,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,1
+2933,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+2939,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,0
+2944,MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,LumA,0,0
+2947,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+2951,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+2952,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+2953,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,1
+2954,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,1
+2957,MASTECTOMY,Breast Invasive Ductal Carcinoma,claudin-low,1,1
+2960,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+2963,BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,claudin-low,0,1
+2964,MASTECTOMY,Breast Invasive Ductal Carcinoma,Her2,0,1
+2966,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,1
+2969,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,1
+2970,MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,LumA,0,0
+2971,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+2977,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,0
+2983,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,1
+2984,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,1
+2990,MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,LumA,0,0
+2993,MASTECTOMY,Breast Invasive Ductal Carcinoma,claudin-low,0,1
+2994,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+2996,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+2999,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+3001,MASTECTOMY,Breast Invasive Ductal Carcinoma,claudin-low,1,1
+3002,MASTECTOMY,Breast Invasive Lobular Carcinoma,LumA,0,0
+3005,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+3006,MASTECTOMY,Breast Invasive Ductal Carcinoma,claudin-low,0,1
+3007,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,0
+3008,BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,LumA,0,1
+3013,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,claudin-low,0,1
+3014,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Basal,1,1
+3016,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,0
+3021,BREAST CONSERVING,Breast Invasive Lobular Carcinoma,LumA,0,1
+3025,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Her2,1,1
+3026,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+3028,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,1
+3031,MASTECTOMY,Breast Invasive Ductal Carcinoma,Her2,1,1
+3032,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+3033,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+3035,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+3037,BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,LumA,0,1
+3046,MASTECTOMY,Breast Invasive Ductal Carcinoma,Basal,0,0
+3049,BREAST CONSERVING,Breast Invasive Lobular Carcinoma,LumA,0,1
+3050,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,0
+3057,MASTECTOMY,Breast Invasive Ductal Carcinoma,Basal,1,1
+3058,MASTECTOMY,Breast Invasive Ductal Carcinoma,Basal,1,1
+3060,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,1
+3062,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,claudin-low,0,1
+3063,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Basal,1,1
+3064,MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,LumA,0,0
+3067,MASTECTOMY,Breast Invasive Ductal Carcinoma,claudin-low,1,1
+3079,MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,LumA,0,1
+3083,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,1
+3085,MASTECTOMY,Breast Invasive Lobular Carcinoma,Normal,0,1
+3088,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,0
+3092,MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,LumB,0,1
+3102,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+3103,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,1
+3104,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,1
+3105,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+3110,BREAST CONSERVING,Breast Invasive Lobular Carcinoma,LumA,0,1
+3121,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,0
+3122,MASTECTOMY,Breast Invasive Ductal Carcinoma,Her2,0,0
+3123,MASTECTOMY,Breast Invasive Ductal Carcinoma,Basal,1,1
+3153,MASTECTOMY,Breast Invasive Ductal Carcinoma,Basal,1,1
+3165,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Basal,1,1
+3167,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,1
+3171,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+3181,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,1
+3211,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Basal,0,1
+3218,MASTECTOMY,Breast Invasive Ductal Carcinoma,Basal,1,1
+3222,MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,LumA,0,0
+3228,BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,LumA,0,1
+3235,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,1
+3252,BREAST CONSERVING,Breast Invasive Mixed Mucinous Carcinoma,LumA,0,0
+3253,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,1
+3254,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+3266,MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,LumB,0,1
+3271,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,claudin-low,0,1
+3272,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,1
+3275,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,0
+3277,MASTECTOMY,Breast Invasive Ductal Carcinoma,Basal,1,1
+3292,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,claudin-low,0,0
+3295,MASTECTOMY,Breast Invasive Ductal Carcinoma,Normal,0,0
+3297,MASTECTOMY,Breast Invasive Ductal Carcinoma,Basal,1,1
+3298,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+3300,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,0
+3301,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,0
+3303,MASTECTOMY,Breast,LumB,0,1
+3328,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+3329,MASTECTOMY,Breast Invasive Ductal Carcinoma,Her2,0,1
+3341,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+3344,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+3350,MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,LumB,0,0
+3351,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+3355,MASTECTOMY,Breast Invasive Ductal Carcinoma,Her2,1,1
+3357,BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,LumB,0,1
+3360,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,1
+3361,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,1
+3363,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Basal,0,1
+3365,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+3367,MASTECTOMY,Breast Invasive Ductal Carcinoma,claudin-low,0,0
+3371,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,1
+3378,MASTECTOMY,Breast Invasive Lobular Carcinoma,LumA,0,0
+3379,MASTECTOMY,Breast Invasive Lobular Carcinoma,LumA,0,1
+3381,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,1
+3382,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,0
+3383,MASTECTOMY,Breast Invasive Ductal Carcinoma,claudin-low,1,1
+3386,MASTECTOMY,Breast Invasive Ductal Carcinoma,Her2,1,1
+3388,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,1
+3389,BREAST CONSERVING,Breast Invasive Lobular Carcinoma,LumB,0,1
+3395,MASTECTOMY,Breast Invasive Ductal Carcinoma,claudin-low,0,0
+3396,MASTECTOMY,Breast Invasive Ductal Carcinoma,Basal,1,1
+3402,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,1,1
+3403,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+3412,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+3417,BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,LumB,0,1
+3429,MASTECTOMY,Breast Invasive Lobular Carcinoma,Normal,0,0
+3430,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+3435,MASTECTOMY,Breast Invasive Ductal Carcinoma,Her2,1,1
+3436,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,1,1
+3437,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,1
+3439,MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,LumA,0,0
+3450,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+3452,MASTECTOMY,Breast Invasive Ductal Carcinoma,Normal,0,0
+3453,MASTECTOMY,Breast Invasive Ductal Carcinoma,Basal,1,1
+3459,MASTECTOMY,Breast Invasive Ductal Carcinoma,claudin-low,0,0
+3462,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,1
+3466,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Her2,0,1
+3467,MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,Her2,1,1
+3470,MASTECTOMY,Breast Invasive Ductal Carcinoma,Her2,1,1
+3476,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,claudin-low,0,0
+3479,MASTECTOMY,Breast Invasive Ductal Carcinoma,claudin-low,0,1
+3487,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,1
+3488,MASTECTOMY,Breast Invasive Ductal Carcinoma,Her2,1,1
+3490,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,0
+3492,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,1
+3497,MASTECTOMY,Breast Invasive Ductal Carcinoma,Her2,1,1
+3500,MASTECTOMY,Breast Invasive Ductal Carcinoma,Basal,0,0
+3502,MASTECTOMY,Breast Invasive Ductal Carcinoma,Basal,1,1
+3506,MASTECTOMY,Breast,LumB,0,1
+3510,BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,LumA,0,1
+3525,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,1
+3526,MASTECTOMY,Breast Invasive Ductal Carcinoma,Normal,0,1
+3528,MASTECTOMY,Breast Invasive Ductal Carcinoma,Her2,0,0
+3530,MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,Her2,0,0
+3536,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Normal,0,1
+3545,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,1
+3548,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+3556,MASTECTOMY,Breast Invasive Ductal Carcinoma,Her2,1,1
+3567,MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,claudin-low,1,1
+3576,MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,Her2,0,0
+3582,MASTECTOMY,Breast Invasive Ductal Carcinoma,claudin-low,0,0
+3600,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,1
+3606,MASTECTOMY,Breast Invasive Ductal Carcinoma,Her2,0,1
+3614,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,1
+3702,MASTECTOMY,Breast Invasive Ductal Carcinoma,claudin-low,1,1
+3706,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Basal,0,1
+3707,MASTECTOMY,Breast Invasive Ductal Carcinoma,claudin-low,0,0
+3711,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+3748,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,1
+3752,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,claudin-low,0,1
+3754,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,0
+3781,BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,LumA,0,1
+3797,BREAST CONSERVING,Breast,LumA,0,0
+3824,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,1
+3838,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,1
+3840,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,1
+3842,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,1
+3850,MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,LumA,0,0
+3852,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+3854,BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,LumA,0,0
+3865,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,claudin-low,0,1
+3866,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Her2,0,1
+3871,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+3874,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+3978,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Her2,0,1
+4000,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+4001,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,1
+4003,MASTECTOMY,Breast Invasive Ductal Carcinoma,Her2,0,1
+4004,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,1
+4005,MASTECTOMY,Breast Invasive Lobular Carcinoma,claudin-low,0,1
+4008,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,0
+4010,MASTECTOMY,Breast Invasive Ductal Carcinoma,Her2,0,0
+4011,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+4012,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Her2,0,1
+4015,MASTECTOMY,Breast Invasive Ductal Carcinoma,Her2,0,0
+4017,MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,LumB,0,0
+4018,MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,LumA,0,0
+4024,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Basal,0,1
+4033,BREAST CONSERVING,Breast Invasive Lobular Carcinoma,LumA,0,1
+4046,MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,Her2,0,0
+4059,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Normal,0,1
+4079,MASTECTOMY,Breast Invasive Ductal Carcinoma,Her2,0,1
+4091,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+4098,MASTECTOMY,Breast Invasive Ductal Carcinoma,Her2,0,0
+4119,MASTECTOMY,Breast Invasive Ductal Carcinoma,Her2,0,1
+4120,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+4126,MASTECTOMY,Breast Invasive Ductal Carcinoma,Her2,0,1
+4127,MASTECTOMY,Breast Invasive Ductal Carcinoma,Her2,1,1
+4139,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,0
+4140,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,1
+4141,MASTECTOMY,Breast Invasive Ductal Carcinoma,Her2,0,1
+4145,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Her2,0,1
+4146,MASTECTOMY,Breast Invasive Ductal Carcinoma,Basal,1,1
+4148,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,0
+4154,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,1
+4171,MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,Her2,0,0
+4173,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,1
+4189,,Breast Invasive Ductal Carcinoma,Her2,0,1
+4212,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+4213,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,1
+4222,MASTECTOMY,Breast Invasive Ductal Carcinoma,Her2,0,0
+4224,MASTECTOMY,Breast Invasive Ductal Carcinoma,NC,0,1
+4230,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+4233,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,1
+4234,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+4235,MASTECTOMY,Breast Invasive Ductal Carcinoma,Basal,0,0
+4236,MASTECTOMY,Breast Invasive Ductal Carcinoma,Her2,0,1
+4250,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+4254,MASTECTOMY,Breast Invasive Ductal Carcinoma,Basal,0,0
+4264,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,1
+4266,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+4270,MASTECTOMY,Breast Invasive Ductal Carcinoma,Her2,1,1
+4274,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,1
+4276,MASTECTOMY,Breast Invasive Ductal Carcinoma,Her2,0,1
+4278,MASTECTOMY,Breast Invasive Ductal Carcinoma,Her2,0,0
+4281,MASTECTOMY,Breast Invasive Ductal Carcinoma,Her2,0,1
+4282,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+4283,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,1
+4289,MASTECTOMY,Breast Invasive Lobular Carcinoma,Her2,0,1
+4292,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,1
+4293,MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,LumA,0,1
+4300,MASTECTOMY,Breast Invasive Ductal Carcinoma,Her2,0,1
+4303,MASTECTOMY,Breast Invasive Ductal Carcinoma,Basal,0,1
+4306,MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,LumA,0,0
+4310,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,1
+4313,MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,LumA,0,1
+4317,MASTECTOMY,Breast Invasive Ductal Carcinoma,Her2,0,0
+4318,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,1
+4322,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,1
+4323,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+4324,MASTECTOMY,Breast Invasive Ductal Carcinoma,Her2,0,1
+4328,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,1
+4329,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+4331,MASTECTOMY,Breast Invasive Ductal Carcinoma,Her2,0,1
+4332,MASTECTOMY,Breast Invasive Ductal Carcinoma,Basal,0,1
+4333,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+4339,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,1
+4341,MASTECTOMY,Breast Invasive Ductal Carcinoma,Her2,1,1
+4342,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,1
+4343,MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,Her2,0,0
+4348,MASTECTOMY,Breast Invasive Ductal Carcinoma,Her2,0,1
+4350,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Her2,1,1
+4351,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Her2,0,1
+4353,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,0
+4354,MASTECTOMY,Breast Invasive Ductal Carcinoma,Her2,0,1
+4357,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,1
+4360,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Her2,1,1
+4362,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Normal,0,1
+4368,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,1
+4374,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,1
+4375,MASTECTOMY,Breast Invasive Ductal Carcinoma,Normal,0,0
+4381,MASTECTOMY,Breast Invasive Ductal Carcinoma,Normal,0,1
+4390,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,1
+4395,MASTECTOMY,Breast Invasive Ductal Carcinoma,Her2,0,0
+4407,MASTECTOMY,Breast Invasive Ductal Carcinoma,Basal,0,1
+4408,MASTECTOMY,Breast Invasive Ductal Carcinoma,Basal,0,0
+4416,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,claudin-low,1,1
+4417,MASTECTOMY,Breast Invasive Ductal Carcinoma,Basal,0,0
+4418,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+4421,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,1
+4426,MASTECTOMY,Breast Invasive Ductal Carcinoma,Basal,0,1
+4434,MASTECTOMY,Breast Invasive Ductal Carcinoma,Her2,0,1
+4442,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+4484,MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,Normal,0,1
+4529,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+4548,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Her2,1,1
+4557,BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,LumA,0,1
+4564,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,1
+4578,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+4591,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,1
+4593,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+4598,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,1
+4599,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,1
+4601,MASTECTOMY,Breast Invasive Ductal Carcinoma,Basal,1,0
+4602,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,1
+4603,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Normal,0,1
+4607,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+4616,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+4618,BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,LumB,0,1
+4621,MASTECTOMY,Breast Invasive Ductal Carcinoma,Basal,1,0
+4622,MASTECTOMY,Breast Invasive Ductal Carcinoma,claudin-low,1,1
+4623,BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,LumA,0,1
+4626,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Her2,0,1
+4627,MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,LumA,0,1
+4630,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,0
+4633,BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,LumA,0,1
+4634,MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,LumA,0,1
+4639,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,1
+4640,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Her2,0,1
+4641,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,1
+4642,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,1
+4643,MASTECTOMY,Breast Invasive Ductal Carcinoma,Her2,0,0
+4644,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,0
+4648,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,0
+4649,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,1
+4651,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,1
+4653,MASTECTOMY,Breast Invasive Ductal Carcinoma,Normal,0,0
+4654,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,1
+4655,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+4660,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Basal,1,1
+4661,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+4663,MASTECTOMY,Breast Invasive Ductal Carcinoma,Basal,0,1
+4665,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+4666,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+4667,BREAST CONSERVING,Breast Invasive Lobular Carcinoma,Her2,0,1
+4669,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,1
+4670,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+4671,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,1
+4672,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+4673,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,0
+4674,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+4675,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+4679,MASTECTOMY,Breast Invasive Ductal Carcinoma,Basal,0,0
+4681,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+4682,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+4685,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,1
+4686,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,1
+4687,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+4688,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,1
+4691,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+4692,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+4694,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Basal,0,1
+4695,MASTECTOMY,Breast Invasive Lobular Carcinoma,Normal,0,0
+4696,MASTECTOMY,Breast Invasive Ductal Carcinoma,claudin-low,0,0
+4697,MASTECTOMY,Breast Invasive Lobular Carcinoma,NC,0,0
+4698,MASTECTOMY,Breast Invasive Lobular Carcinoma,LumA,0,0
+4701,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+4702,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,0
+4704,MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,LumA,0,0
+4705,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+4706,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+4707,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Basal,0,1
+4708,MASTECTOMY,Breast Invasive Lobular Carcinoma,LumA,0,0
+4709,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+4710,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+4711,MASTECTOMY,Breast Invasive Ductal Carcinoma,claudin-low,1,1
+4712,MASTECTOMY,Breast Invasive Ductal Carcinoma,Normal,0,0
+4714,MASTECTOMY,Breast Invasive Ductal Carcinoma,Basal,1,1
+4715,MASTECTOMY,Breast Invasive Ductal Carcinoma,Basal,1,0
+4716,BREAST CONSERVING,Breast Invasive Lobular Carcinoma,LumA,0,1
+4717,MASTECTOMY,Breast Invasive Ductal Carcinoma,Basal,0,0
+4718,MASTECTOMY,Breast Invasive Lobular Carcinoma,Normal,0,1
+4719,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+4721,MASTECTOMY,Breast Invasive Lobular Carcinoma,LumA,0,1
+4722,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+4723,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,1
+4724,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Her2,0,1
+4725,MASTECTOMY,Breast Invasive Ductal Carcinoma,Her2,0,0
+4729,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+4730,MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,LumA,0,0
+4731,MASTECTOMY,Breast Invasive Ductal Carcinoma,Her2,1,0
+4732,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Basal,1,1
+4733,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,claudin-low,1,1
+4735,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+4737,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,0
+4738,MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,Normal,0,0
+4739,BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,LumA,0,1
+4741,MASTECTOMY,Breast Invasive Lobular Carcinoma,LumB,0,0
+4742,MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,LumA,0,0
+4743,MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,Normal,0,0
+4744,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,1
+4745,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Her2,1,1
+4746,MASTECTOMY,Breast Invasive Ductal Carcinoma,Normal,1,0
+4749,MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,LumA,0,0
+4750,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,0
+4752,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+4757,MASTECTOMY,Breast Invasive Ductal Carcinoma,Basal,1,0
+4758,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Basal,0,1
+4760,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+4762,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+4763,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Her2,1,1
+4764,MASTECTOMY,Breast Invasive Lobular Carcinoma,LumA,0,1
+4767,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,0
+4769,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Basal,0,1
+4770,MASTECTOMY,Breast Invasive Ductal Carcinoma,Her2,0,0
+4771,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+4778,MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,LumA,0,0
+4779,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+4782,MASTECTOMY,Breast Invasive Ductal Carcinoma,Normal,0,0
+4784,MASTECTOMY,Breast Invasive Ductal Carcinoma,Normal,0,0
+4785,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+4787,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+4790,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+4791,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,0
+4792,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Basal,1,1
+4793,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Basal,0,1
+4794,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+4796,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,0
+4797,MASTECTOMY,Breast Invasive Lobular Carcinoma,LumA,0,1
+4798,BREAST CONSERVING,Breast Invasive Lobular Carcinoma,Normal,0,1
+4800,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+4801,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,1
+4802,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,0
+4805,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+4806,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+4809,MASTECTOMY,Breast Invasive Ductal Carcinoma,Basal,0,0
+4814,MASTECTOMY,Breast Invasive Ductal Carcinoma,Normal,0,0
+4818,MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,LumB,0,1
+4820,,Breast Invasive Ductal Carcinoma,LumA,0,1
+4822,MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,LumA,0,0
+4825,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+4827,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+4828,MASTECTOMY,Breast Invasive Lobular Carcinoma,LumB,0,1
+4829,BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,LumB,0,1
+4832,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+4834,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,1
+4836,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Her2,0,1
+4838,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,1
+4839,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,0
+4843,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+4845,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+4846,BREAST CONSERVING,Breast Invasive Lobular Carcinoma,LumB,0,1
+4849,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+4851,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+4853,BREAST CONSERVING,Breast Invasive Lobular Carcinoma,LumA,0,0
+4855,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+4858,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+4859,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,claudin-low,0,1
+4860,BREAST CONSERVING,Breast Invasive Lobular Carcinoma,LumA,0,1
+4862,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,1
+4865,MASTECTOMY,Breast Invasive Ductal Carcinoma,claudin-low,0,0
+4866,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+4867,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+4869,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+4870,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+4871,MASTECTOMY,Breast Invasive Ductal Carcinoma,Normal,0,0
+4872,MASTECTOMY,Breast Invasive Lobular Carcinoma,LumA,0,0
+4873,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,1
+4876,BREAST CONSERVING,Breast Invasive Lobular Carcinoma,claudin-low,0,1
+4878,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+4879,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Her2,0,1
+4880,MASTECTOMY,Breast Invasive Ductal Carcinoma,Basal,0,0
+4881,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Basal,0,1
+4882,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+4883,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+4886,MASTECTOMY,Breast Invasive Ductal Carcinoma,Her2,1,0
+4887,MASTECTOMY,Breast Invasive Ductal Carcinoma,Normal,0,0
+4888,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,claudin-low,0,1
+4893,MASTECTOMY,Breast Invasive Ductal Carcinoma,claudin-low,1,0
+4894,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+4896,MASTECTOMY,Breast Invasive Ductal Carcinoma,Basal,0,0
+4897,MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,Normal,0,0
+4898,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+4899,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+4900,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,0
+4904,,Breast Invasive Ductal Carcinoma,claudin-low,1,1
+4906,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+4908,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,1
+4911,MASTECTOMY,Breast Invasive Ductal Carcinoma,Basal,1,1
+4912,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,1
+4925,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,0
+4928,MASTECTOMY,Breast Invasive Ductal Carcinoma,Her2,0,0
+4929,MASTECTOMY,Breast Invasive Ductal Carcinoma,Her2,0,1
+4930,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,1
+4931,MASTECTOMY,Breast Invasive Ductal Carcinoma,claudin-low,0,0
+4933,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+4934,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,1
+4935,MASTECTOMY,Breast Invasive Ductal Carcinoma,Her2,1,0
+4937,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,0
+4938,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Basal,1,1
+4941,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+4942,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,claudin-low,0,1
+4944,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,1
+4945,MASTECTOMY,Breast Invasive Ductal Carcinoma,Basal,1,0
+4949,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,0
+4950,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,1
+4952,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Her2,0,1
+4956,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,1
+4957,BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,LumB,0,1
+4959,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,0
+4961,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+4962,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+4965,MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,LumA,0,0
+4966,MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,LumB,0,0
+4967,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,1
+4968,MASTECTOMY,Breast Invasive Lobular Carcinoma,LumA,0,1
+4969,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+4970,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,0
+4974,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Basal,0,1
+4976,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+4977,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+4978,MASTECTOMY,Breast Invasive Lobular Carcinoma,Normal,0,0
+4981,MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,LumA,0,0
+4982,MASTECTOMY,Breast Invasive Ductal Carcinoma,Her2,0,1
+4986,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+4987,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+4991,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,0
+4992,MASTECTOMY,Breast Invasive Lobular Carcinoma,LumA,0,0
+4993,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Her2,1,1
+4994,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,1
+4996,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+4998,MASTECTOMY,Breast Invasive Lobular Carcinoma,LumB,0,0
+4999,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,1
+5001,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+5004,MASTECTOMY,Breast Invasive Ductal Carcinoma,Her2,1,1
+5008,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Her2,1,1
+5011,BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,LumA,0,1
+5013,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+5014,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,1
+5015,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+5017,MASTECTOMY,Breast Invasive Ductal Carcinoma,claudin-low,0,1
+5018,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+5019,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Normal,0,1
+5020,BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,LumA,0,1
+5027,BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,LumA,0,1
+5033,BREAST CONSERVING,Breast Invasive Mixed Mucinous Carcinoma,LumB,0,1
+5035,MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,LumA,0,0
+5039,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,1
+5040,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,0
+5041,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,claudin-low,0,1
+5043,BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,LumA,0,1
+5044,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,1
+5045,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+5048,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+5049,MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,LumB,0,0
+5050,BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,LumA,0,1
+5052,MASTECTOMY,Breast Invasive Ductal Carcinoma,claudin-low,0,0
+5053,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+5054,MASTECTOMY,Breast Invasive Ductal Carcinoma,Basal,0,0
+5057,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Basal,0,0
+5058,MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,Normal,1,1
+5059,MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,LumA,0,0
+5060,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,1
+5061,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,1
+5062,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,1
+5063,MASTECTOMY,Breast Invasive Ductal Carcinoma,Her2,1,1
+5064,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+5065,MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,claudin-low,0,0
+5066,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+5068,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+5070,MASTECTOMY,Breast Invasive Ductal Carcinoma,Basal,1,0
+5072,MASTECTOMY,Breast Invasive Ductal Carcinoma,Her2,1,0
+5073,MASTECTOMY,Breast Invasive Ductal Carcinoma,claudin-low,0,0
+5074,BREAST CONSERVING,Breast Invasive Lobular Carcinoma,LumA,0,1
+5078,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,1
+5079,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+5081,MASTECTOMY,Breast Invasive Ductal Carcinoma,Normal,0,0
+5084,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+5086,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+5088,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+5092,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+5093,MASTECTOMY,Breast Invasive Ductal Carcinoma,Her2,0,0
+5097,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,0
+5098,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+5100,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,claudin-low,1,1
+5101,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,1
+5102,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Basal,1,1
+5105,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+5107,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,1
+5110,MASTECTOMY,Breast Invasive Lobular Carcinoma,Normal,0,0
+5113,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Normal,0,1
+5114,MASTECTOMY,Breast Invasive Ductal Carcinoma,Basal,0,0
+5115,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Basal,1,1
+5116,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,1
+5117,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+5118,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+5119,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+5120,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Her2,1,1
+5121,MASTECTOMY,Breast Invasive Lobular Carcinoma,LumB,0,0
+5122,MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,LumA,0,1
+5123,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+5124,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,0
+5126,,Breast Invasive Ductal Carcinoma,Basal,1,1
+5127,MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,LumB,0,1
+5130,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+5134,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+5135,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Basal,0,1
+5138,,Breast Invasive Ductal Carcinoma,Basal,1,1
+5139,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,1
+5143,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+5144,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,1
+5145,BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,Normal,0,1
+5147,MASTECTOMY,Breast Invasive Lobular Carcinoma,LumA,0,0
+5148,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Her2,0,1
+5150,MASTECTOMY,Breast Invasive Lobular Carcinoma,Normal,0,0
+5152,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+5154,MASTECTOMY,Breast Invasive Ductal Carcinoma,Normal,0,0
+5155,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Normal,1,1
+5157,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Normal,0,1
+5160,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,1
+5161,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Normal,0,1
+5162,MASTECTOMY,Breast Invasive Ductal Carcinoma,claudin-low,0,0
+5163,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+5164,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Normal,0,1
+5166,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,1
+5167,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,0
+5169,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,0
+5171,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Normal,0,1
+5172,MASTECTOMY,Breast Invasive Ductal Carcinoma,Her2,1,1
+5173,MASTECTOMY,Breast Invasive Ductal Carcinoma,Basal,0,0
+5174,MASTECTOMY,Breast Invasive Ductal Carcinoma,Her2,0,0
+5175,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,claudin-low,0,1
+5176,BREAST CONSERVING,,claudin-low,0,1
+5177,,Breast Invasive Ductal Carcinoma,claudin-low,0,0
+5178,MASTECTOMY,Breast Invasive Lobular Carcinoma,Normal,0,0
+5179,MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,LumA,0,0
+5182,BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,LumA,0,1
+5183,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+5184,MASTECTOMY,Breast Invasive Lobular Carcinoma,LumA,0,0
+5185,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+5186,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+5188,MASTECTOMY,Breast Invasive Ductal Carcinoma,Basal,0,0
+5189,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,0
+5190,BREAST CONSERVING,,Basal,0,1
+5191,MASTECTOMY,Breast Invasive Lobular Carcinoma,LumA,0,0
+5193,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+5195,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+5196,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+5197,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+5199,MASTECTOMY,Breast Invasive Ductal Carcinoma,Basal,0,0
+5200,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,1
+5201,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+5204,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,0
+5205,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Basal,1,1
+5206,MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,LumA,0,0
+5208,MASTECTOMY,Breast Invasive Ductal Carcinoma,Basal,0,0
+5209,MASTECTOMY,Breast Invasive Ductal Carcinoma,Basal,0,1
+5211,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,0
+5212,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,0
+5213,MASTECTOMY,Breast Invasive Ductal Carcinoma,Her2,1,1
+5214,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Normal,0,1
+5215,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,1
+5218,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,1
+5221,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+5222,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,claudin-low,0,1
+5223,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,claudin-low,1,1
+5224,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+5225,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Basal,0,1
+5226,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,1
+5227,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+5228,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,1
+5229,MASTECTOMY,Breast Invasive Ductal Carcinoma,Basal,1,0
+5230,BREAST CONSERVING,Breast Invasive Mixed Mucinous Carcinoma,LumA,0,1
+5231,MASTECTOMY,Breast Invasive Ductal Carcinoma,Her2,0,0
+5232,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Basal,0,1
+5233,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,1
+5235,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Basal,0,1
+5236,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Basal,1,1
+5238,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Normal,1,1
+5239,MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,LumB,0,0
+5240,BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,LumA,0,1
+5243,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,0
+5244,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,0
+5251,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+5253,MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,LumA,0,0
+5256,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,1
+5258,MASTECTOMY,Breast Invasive Ductal Carcinoma,Basal,0,0
+5259,MASTECTOMY,Breast Invasive Ductal Carcinoma,Her2,1,1
+5260,BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,LumB,0,1
+5261,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,1
+5264,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+5266,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,0
+5267,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+5268,BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,LumA,0,1
+5270,MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,LumA,0,0
+5271,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,0
+5272,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,claudin-low,0,1
+5273,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,0
+5275,MASTECTOMY,Breast Invasive Ductal Carcinoma,Her2,0,0
+5277,MASTECTOMY,Breast Invasive Ductal Carcinoma,Normal,0,0
+5278,MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,Normal,0,0
+5279,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+5280,MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,Normal,0,0
+5281,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+5284,MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,LumA,0,1
+5287,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+5288,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,1
+5290,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+5291,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,1
+5292,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,0
+5293,BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,LumA,0,1
+5294,MASTECTOMY,Breast Invasive Ductal Carcinoma,Basal,1,1
+5295,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Basal,0,1
+5296,MASTECTOMY,Breast Invasive Ductal Carcinoma,claudin-low,0,1
+5298,BREAST CONSERVING,Breast Invasive Lobular Carcinoma,Basal,1,0
+5299,BREAST CONSERVING,Breast Invasive Lobular Carcinoma,Basal,1,0
+5300,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+5305,MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,LumA,0,0
+5306,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+5308,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Normal,0,1
+5310,MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,LumA,0,0
+5311,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,claudin-low,0,1
+5312,MASTECTOMY,Breast Invasive Ductal Carcinoma,Her2,1,0
+5313,MASTECTOMY,Breast Invasive Lobular Carcinoma,Her2,0,0
+5315,MASTECTOMY,Breast Invasive Ductal Carcinoma,Her2,1,1
+5317,BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,LumB,0,1
+5318,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,1
+5322,BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,LumA,0,1
+5323,MASTECTOMY,Breast Invasive Ductal Carcinoma,claudin-low,0,0
+5324,MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,LumA,0,0
+5326,MASTECTOMY,Breast Invasive Lobular Carcinoma,Normal,0,1
+5327,BREAST CONSERVING,Breast Invasive Lobular Carcinoma,Her2,0,1
+5328,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,0
+5329,MASTECTOMY,Breast Invasive Lobular Carcinoma,LumA,1,1
+5330,MASTECTOMY,Breast Invasive Lobular Carcinoma,LumA,0,0
+5331,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+5332,MASTECTOMY,Breast Invasive Ductal Carcinoma,Her2,0,0
+5334,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+5335,MASTECTOMY,Breast Invasive Ductal Carcinoma,Basal,0,0
+5338,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,1
+5339,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,NC,0,1
+5341,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,1
+5345,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Normal,0,1
+5346,MASTECTOMY,Breast Invasive Ductal Carcinoma,Basal,1,1
+5347,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,1
+5348,MASTECTOMY,Breast Invasive Ductal Carcinoma,claudin-low,1,0
+5350,BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,claudin-low,0,1
+5351,MASTECTOMY,Breast Invasive Ductal Carcinoma,Normal,0,0
+5358,MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,LumA,0,1
+5360,MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,LumA,0,1
+5361,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+5364,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Normal,0,1
+5365,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+5366,MASTECTOMY,Breast Invasive Lobular Carcinoma,Her2,0,0
+5368,MASTECTOMY,,Normal,0,0
+5369,BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,LumA,0,1
+5370,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,1
+5373,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,1
+5377,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,1,1
+5378,MASTECTOMY,Breast Invasive Ductal Carcinoma,Basal,1,1
+5381,MASTECTOMY,Breast Invasive Ductal Carcinoma,Her2,1,1
+5382,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+5383,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+5384,MASTECTOMY,,LumA,0,0
+5386,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,1
+5388,BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,LumA,0,1
+5389,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+5390,BREAST CONSERVING,Breast Invasive Lobular Carcinoma,Basal,1,1
+5392,MASTECTOMY,Breast Invasive Lobular Carcinoma,claudin-low,0,0
+5393,MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,LumB,0,0
+5395,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+5396,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,1
+5397,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+5398,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,1
+5399,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+5401,MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,LumA,0,0
+5402,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+5403,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,0
+5404,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+5405,BREAST CONSERVING,,claudin-low,0,1
+5406,BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,LumB,0,1
+5407,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+5408,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,claudin-low,0,1
+5409,MASTECTOMY,Breast Invasive Ductal Carcinoma,Her2,1,1
+5410,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+5411,MASTECTOMY,Breast Invasive Ductal Carcinoma,Her2,1,0
+5412,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+5414,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,1
+5417,MASTECTOMY,Breast Invasive Ductal Carcinoma,Her2,1,1
+5418,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,0
+5420,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Basal,0,1
+5421,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Basal,0,1
+5422,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+5424,MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,LumA,0,0
+5425,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+5426,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Basal,1,1
+5427,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Basal,0,1
+5428,BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,LumA,0,1
+5429,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+5431,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,claudin-low,0,1
+5432,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+5433,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+5434,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,0
+5435,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,0
+5440,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,claudin-low,1,1
+5441,MASTECTOMY,Breast Invasive Ductal Carcinoma,Her2,0,0
+5442,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Basal,1,1
+5444,BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,LumA,0,1
+5446,MASTECTOMY,Breast Invasive Ductal Carcinoma,Her2,1,1
+5447,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,1
+5450,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,claudin-low,0,1
+5451,BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,LumA,0,1
+5452,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+5453,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Normal,1,1
+5454,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,1
+5455,MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,LumA,0,0
+5457,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,0
+5458,MASTECTOMY,Breast Invasive Ductal Carcinoma,Basal,1,0
+5459,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,1
+5463,MASTECTOMY,Breast Invasive Lobular Carcinoma,LumB,0,1
+5464,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+5465,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Basal,0,1
+5468,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Basal,1,1
+5470,MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,Basal,0,0
+5471,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+5472,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+5473,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,1
+5474,MASTECTOMY,Breast Invasive Ductal Carcinoma,claudin-low,1,0
+5475,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,0
+5477,MASTECTOMY,Breast,LumB,0,0
+5478,MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,LumA,0,1
+5481,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,1
+5482,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Basal,1,1
+5483,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Her2,1,1
+5484,BREAST CONSERVING,Breast Invasive Lobular Carcinoma,LumA,0,1
+5485,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,1
+5486,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,1
+5489,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,0
+5490,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+5491,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,0
+5492,MASTECTOMY,Breast Invasive Lobular Carcinoma,LumA,0,0
+5493,MASTECTOMY,Breast Invasive Lobular Carcinoma,LumB,0,0
+5495,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+5497,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,1
+5498,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Her2,0,1
+5499,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+5502,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,1
+5505,BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,LumB,0,1
+5510,MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,LumA,0,0
+5511,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Her2,0,0
+5513,MASTECTOMY,Breast Invasive Ductal Carcinoma,Basal,0,0
+5514,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+5518,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,1
+5519,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+5520,MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,LumA,0,0
+5521,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,1
+5525,BREAST CONSERVING,Breast Invasive Mixed Mucinous Carcinoma,LumB,0,1
+5526,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Basal,0,1
+5527,MASTECTOMY,Breast Invasive Ductal Carcinoma,claudin-low,1,1
+5529,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Basal,1,1
+5530,MASTECTOMY,Breast Invasive Ductal Carcinoma,Basal,0,0
+5531,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,claudin-low,0,1
+5532,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+5533,BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,Normal,0,1
+5534,MASTECTOMY,Breast Invasive Ductal Carcinoma,claudin-low,0,1
+5535,MASTECTOMY,Breast Invasive Ductal Carcinoma,Her2,1,1
+5540,BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,LumB,0,0
+5541,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+5543,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,0
+5547,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Basal,1,1
+5548,MASTECTOMY,Breast Invasive Ductal Carcinoma,claudin-low,0,0
+5549,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Her2,1,1
+5550,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+5551,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Basal,0,1
+5552,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,0
+5553,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,0
+5554,BREAST CONSERVING,Breast Invasive Lobular Carcinoma,LumA,0,1
+5556,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,1
+5558,MASTECTOMY,Breast Invasive Ductal Carcinoma,Basal,1,0
+5559,MASTECTOMY,,Basal,1,1
+5560,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Basal,0,1
+5562,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,1
+5563,MASTECTOMY,Breast Invasive Lobular Carcinoma,LumA,0,0
+5565,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,claudin-low,1,1
+5566,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Basal,1,1
+5567,BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,LumA,0,1
+5571,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+5572,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,claudin-low,0,1
+5575,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,1
+5576,BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,LumB,0,1
+5577,MASTECTOMY,Breast Invasive Lobular Carcinoma,claudin-low,0,0
+5579,BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,LumA,0,1
+5580,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+5582,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+5583,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+5584,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Her2,0,0
+5588,MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,claudin-low,0,0
+5589,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+5590,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,0
+5591,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,0
+5592,BREAST CONSERVING,Breast Invasive Lobular Carcinoma,LumB,0,1
+5593,MASTECTOMY,Breast Invasive Lobular Carcinoma,Her2,1,1
+5596,MASTECTOMY,Breast Invasive Lobular Carcinoma,LumA,0,0
+5597,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+5599,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+5601,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+5602,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Basal,1,1
+5603,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,1
+5604,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,1
+5605,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,1
+5613,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,0
+5614,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+5616,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,claudin-low,1,1
+5617,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+5620,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+5622,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,1
+5623,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,0
+5624,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Basal,1,1
+5626,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,1
+5628,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,1
+5629,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+5632,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,1
+5633,MASTECTOMY,Breast Invasive Ductal Carcinoma,claudin-low,1,1
+5634,MASTECTOMY,Breast Invasive Ductal Carcinoma,Basal,0,0
+5635,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+5636,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,0
+5638,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+5640,MASTECTOMY,Breast Invasive Ductal Carcinoma,Normal,0,0
+5641,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,1
+5642,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,1
+5645,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+5646,BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,LumB,0,1
+5647,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,1
+5651,BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,claudin-low,1,1
+5652,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Normal,0,1
+5653,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,0
+5654,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,0
+5655,MASTECTOMY,Breast Invasive Ductal Carcinoma,Basal,0,0
+5656,MASTECTOMY,Breast Invasive Ductal Carcinoma,Normal,0,0
+6001,MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,LumA,0,0
+6006,MASTECTOMY,Breast Invasive Lobular Carcinoma,LumA,0,0
+6007,MASTECTOMY,Breast Invasive Lobular Carcinoma,Her2,0,0
+6008,MASTECTOMY,Breast Invasive Lobular Carcinoma,LumB,0,0
+6010,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,0
+6011,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,0
+6012,MASTECTOMY,Breast Invasive Lobular Carcinoma,LumA,0,0
+6014,MASTECTOMY,Breast Invasive Lobular Carcinoma,Normal,0,0
+6016,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,0
+6017,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+6018,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+6019,MASTECTOMY,Breast Invasive Ductal Carcinoma,Normal,0,0
+6021,MASTECTOMY,Breast Invasive Lobular Carcinoma,LumA,0,0
+6022,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,0
+6023,MASTECTOMY,Breast Invasive Lobular Carcinoma,Normal,0,0
+6024,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+6026,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,0
+6029,BREAST CONSERVING,Breast,LumA,0,1
+6030,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+6036,MASTECTOMY,Breast Invasive Ductal Carcinoma,claudin-low,0,0
+6039,MASTECTOMY,Breast Invasive Ductal Carcinoma,Her2,0,0
+6042,MASTECTOMY,Breast Invasive Ductal Carcinoma,Normal,0,0
+6044,MASTECTOMY,Breast Invasive Ductal Carcinoma,Her2,0,0
+6047,MASTECTOMY,Breast,Her2,0,0
+6048,MASTECTOMY,Breast Invasive Ductal Carcinoma,Her2,0,0
+6049,MASTECTOMY,Breast Invasive Ductal Carcinoma,Her2,0,0
+6050,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+6051,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+6052,MASTECTOMY,Breast Invasive Ductal Carcinoma,claudin-low,0,0
+6053,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,0
+6055,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,claudin-low,1,1
+6058,MASTECTOMY,Breast Invasive Ductal Carcinoma,Basal,1,0
+6059,MASTECTOMY,Breast Invasive Ductal Carcinoma,Normal,1,0
+6060,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,0
+6062,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,claudin-low,0,1
+6063,MASTECTOMY,Breast Invasive Ductal Carcinoma,Normal,1,0
+6065,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+6068,MASTECTOMY,Breast Invasive Ductal Carcinoma,Basal,0,0
+6069,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+6071,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+6075,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,0
+6077,MASTECTOMY,Breast Invasive Ductal Carcinoma,NC,0,0
+6079,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,1
+6080,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,1
+6082,MASTECTOMY,Breast Invasive Ductal Carcinoma,Normal,1,0
+6083,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+6085,MASTECTOMY,Breast Invasive Ductal Carcinoma,Her2,1,0
+6092,BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,Normal,0,0
+6097,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+6098,MASTECTOMY,Breast Invasive Ductal Carcinoma,Basal,1,0
+6100,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Her2,1,1
+6101,MASTECTOMY,Breast Invasive Ductal Carcinoma,Normal,0,0
+6103,MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,Normal,0,0
+6105,MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,Her2,0,0
+6107,MASTECTOMY,Breast Invasive Lobular Carcinoma,Normal,0,0
+6108,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+6113,MASTECTOMY,Breast Invasive Ductal Carcinoma,Her2,1,0
+6114,MASTECTOMY,Breast Invasive Ductal Carcinoma,Her2,1,0
+6116,MASTECTOMY,Breast Invasive Ductal Carcinoma,Her2,0,0
+6118,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+6122,MASTECTOMY,Breast Invasive Ductal Carcinoma,Basal,1,0
+6124,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+6125,MASTECTOMY,Breast Invasive Ductal Carcinoma,Normal,0,0
+6131,MASTECTOMY,Breast Invasive Ductal Carcinoma,Her2,0,0
+6133,MASTECTOMY,Breast Invasive Lobular Carcinoma,LumA,0,0
+6135,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,0
+6138,MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,LumB,0,0
+6141,MASTECTOMY,Breast Invasive Lobular Carcinoma,LumB,0,0
+6143,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,claudin-low,0,1
+6144,MASTECTOMY,Breast Invasive Ductal Carcinoma,claudin-low,0,0
+6145,MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,LumB,0,0
+6146,MASTECTOMY,Breast Invasive Ductal Carcinoma,Her2,0,0
+6147,MASTECTOMY,Breast Invasive Lobular Carcinoma,claudin-low,0,0
+6149,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+6150,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,0
+6152,MASTECTOMY,Breast Invasive Ductal Carcinoma,Basal,0,0
+6154,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,0
+6156,MASTECTOMY,Breast Invasive Ductal Carcinoma,Her2,0,0
+6157,MASTECTOMY,Breast Invasive Ductal Carcinoma,Basal,0,1
+6160,MASTECTOMY,Breast Invasive Ductal Carcinoma,Her2,1,0
+6163,MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,LumA,0,0
+6164,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,0
+6167,MASTECTOMY,Breast Invasive Lobular Carcinoma,LumA,0,0
+6168,MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,LumA,0,0
+6169,MASTECTOMY,Breast Invasive Ductal Carcinoma,Basal,0,0
+6171,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+6178,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Basal,0,0
+6179,MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,LumA,0,0
+6181,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+6182,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Her2,0,1
+6183,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,0
+6184,MASTECTOMY,Breast Invasive Ductal Carcinoma,Her2,1,0
+6185,MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,LumA,0,0
+6187,MASTECTOMY,Breast Invasive Ductal Carcinoma,claudin-low,0,0
+6188,MASTECTOMY,Breast Invasive Ductal Carcinoma,claudin-low,0,0
+6189,BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,LumB,0,1
+6190,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+6192,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,0
+6194,MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,Normal,1,1
+6195,MASTECTOMY,Breast Invasive Lobular Carcinoma,LumA,0,0
+6200,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+6201,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,1
+6204,MASTECTOMY,Breast Invasive Ductal Carcinoma,Normal,0,0
+6207,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+6208,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Normal,0,1
+6211,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+6212,BREAST CONSERVING,Breast,LumA,0,1
+6214,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+6217,MASTECTOMY,Breast Invasive Mixed Mucinous Carcinoma,LumB,1,0
+6218,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+6223,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Basal,1,1
+6224,MASTECTOMY,Breast Invasive Ductal Carcinoma,Her2,1,1
+6225,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+6226,MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,Normal,0,0
+6228,MASTECTOMY,Breast Invasive Ductal Carcinoma,claudin-low,0,0
+6229,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+6231,MASTECTOMY,Breast Invasive Ductal Carcinoma,Normal,0,0
+6232,MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,LumA,0,0
+6233,BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,LumB,0,1
+6234,MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,Normal,0,0
+6237,MASTECTOMY,Breast Invasive Ductal Carcinoma,Basal,0,0
+6238,MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,LumA,0,0
+6239,BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,Normal,1,1
+6242,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Basal,1,1
+6245,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Basal,0,0
+6246,MASTECTOMY,Breast Invasive Ductal Carcinoma,Her2,1,0
+6248,MASTECTOMY,Breast Invasive Ductal Carcinoma,Basal,1,1
+6251,MASTECTOMY,Breast Invasive Ductal Carcinoma,Basal,1,1
+6253,BREAST CONSERVING,Breast Invasive Lobular Carcinoma,LumA,0,1
+6254,MASTECTOMY,Breast Invasive Mixed Mucinous Carcinoma,LumB,0,0
+6256,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+6257,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,1
+6263,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+6271,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,0
+6272,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,claudin-low,1,1
+6273,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,1,0
+6280,MASTECTOMY,Breast Invasive Ductal Carcinoma,Basal,1,1
+6281,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,0
+6283,MASTECTOMY,Breast Invasive Lobular Carcinoma,LumA,0,0
+6284,BREAST CONSERVING,Breast,LumB,0,1
+6286,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+6287,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,1,1
+6288,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,1
+6297,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+6300,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,0
+6302,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,1
+6305,MASTECTOMY,Breast Invasive Ductal Carcinoma,claudin-low,1,1
+6306,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,1
+6308,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+6312,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,0
+6314,BREAST CONSERVING,Breast Invasive Mixed Mucinous Carcinoma,Her2,0,0
+6317,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,0
+6318,MASTECTOMY,Breast Invasive Ductal Carcinoma,Her2,0,0
+6319,BREAST CONSERVING,Breast Invasive Lobular Carcinoma,Normal,1,1
+6322,BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,LumB,0,1
+6327,MASTECTOMY,Breast Invasive Mixed Mucinous Carcinoma,LumB,0,1
+6328,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+6329,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,0
+6330,MASTECTOMY,Breast Invasive Ductal Carcinoma,Her2,1,1
+6334,MASTECTOMY,Breast Invasive Ductal Carcinoma,Her2,0,0
+6336,MASTECTOMY,Breast Invasive Ductal Carcinoma,Basal,1,1
+6337,MASTECTOMY,Breast Invasive Ductal Carcinoma,Basal,1,1
+6344,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,0
+6346,BREAST CONSERVING,Breast Invasive Mixed Mucinous Carcinoma,LumB,0,1
+6358,MASTECTOMY,Breast Invasive Lobular Carcinoma,Her2,0,0
+6359,MASTECTOMY,Breast Invasive Ductal Carcinoma,Her2,0,0
+6363,MASTECTOMY,Breast Invasive Ductal Carcinoma,Basal,1,1
+7000,MASTECTOMY,Breast,LumB,0,0
+7001,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+7002,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,0
+7003,MASTECTOMY,Breast Invasive Ductal Carcinoma,Normal,0,0
+7004,MASTECTOMY,Breast Invasive Lobular Carcinoma,LumA,0,1
+7005,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,1
+7006,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+7007,MASTECTOMY,Breast Invasive Ductal Carcinoma,Basal,1,1
+7008,MASTECTOMY,Breast Invasive Ductal Carcinoma,claudin-low,0,0
+7009,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Basal,1,1
+7010,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+7011,MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,LumB,0,1
+7012,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Basal,1,1
+7013,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+7014,BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,Basal,0,1
+7015,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,1
+7017,BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,claudin-low,1,1
+7018,MASTECTOMY,Breast Invasive Ductal Carcinoma,Her2,1,1
+7019,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,0
+7020,MASTECTOMY,Breast Invasive Ductal Carcinoma,Her2,1,0
+7022,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,0
+7023,MASTECTOMY,Breast Invasive Ductal Carcinoma,claudin-low,1,1
+7024,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,0
+7025,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,claudin-low,0,1
+7026,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,1
+7027,MASTECTOMY,Breast Invasive Ductal Carcinoma,Her2,1,1
+7028,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,1
+7029,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+7030,MASTECTOMY,Breast,Basal,0,1
+7031,MASTECTOMY,Breast Invasive Ductal Carcinoma,Basal,1,1
+7032,MASTECTOMY,,LumA,0,0
+7034,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+7035,MASTECTOMY,Breast Invasive Ductal Carcinoma,Her2,1,1
+7036,MASTECTOMY,Breast Invasive Ductal Carcinoma,Basal,1,1
+7037,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+7038,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Basal,1,1
+7039,MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,Basal,0,0
+7040,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,0
+7041,MASTECTOMY,Breast Invasive Lobular Carcinoma,LumA,0,0
+7042,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,1
+7043,MASTECTOMY,Breast Invasive Ductal Carcinoma,claudin-low,0,1
+7044,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,claudin-low,0,1
+7045,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Her2,0,1
+7046,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Her2,0,1
+7048,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Her2,0,1
+7049,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Basal,0,1
+7050,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Her2,1,1
+7051,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Her2,0,1
+7052,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,claudin-low,0,1
+7053,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+7054,MASTECTOMY,Breast Invasive Lobular Carcinoma,claudin-low,1,0
+7055,MASTECTOMY,Breast Invasive Ductal Carcinoma,Basal,0,0
+7056,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+7057,MASTECTOMY,Breast Invasive Ductal Carcinoma,Normal,1,0
+7058,MASTECTOMY,Breast Invasive Ductal Carcinoma,Normal,0,0
+7059,MASTECTOMY,,Her2,1,1
+7060,MASTECTOMY,Breast Invasive Lobular Carcinoma,LumA,0,1
+7061,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Normal,0,1
+7062,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+7063,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+7065,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,1
+7066,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Her2,1,1
+7067,MASTECTOMY,Breast Invasive Ductal Carcinoma,Her2,0,0
+7068,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Her2,0,1
+7069,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Her2,0,1
+7070,MASTECTOMY,Breast Invasive Ductal Carcinoma,Her2,0,0
+7071,BREAST CONSERVING,Breast Invasive Lobular Carcinoma,Her2,0,1
+7072,MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,LumB,0,1
+7073,MASTECTOMY,Breast Invasive Ductal Carcinoma,Basal,1,0
+7074,MASTECTOMY,Breast Invasive Ductal Carcinoma,Normal,0,0
+7075,MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,LumB,0,0
+7076,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+7077,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+7078,MASTECTOMY,Breast Invasive Ductal Carcinoma,claudin-low,0,1
+7079,MASTECTOMY,Breast Invasive Ductal Carcinoma,claudin-low,0,0
+7080,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+7081,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,claudin-low,0,1
+7082,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Her2,1,1
+7083,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,1,1
+7084,MASTECTOMY,,Basal,0,0
+7085,MASTECTOMY,Breast Invasive Ductal Carcinoma,Normal,0,1
+7086,BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,LumB,0,1
+7087,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Basal,1,1
+7088,MASTECTOMY,Breast Invasive Ductal Carcinoma,Her2,0,0
+7089,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,claudin-low,1,1
+7090,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Basal,1,1
+7091,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+7092,BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,Her2,0,1
+7093,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,1,0
+7094,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,1
+7095,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+7096,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+7097,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,1,0
+7099,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,1
+7100,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,1
+7101,BREAST CONSERVING,Breast Invasive Lobular Carcinoma,LumA,0,1
+7102,MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,LumB,0,0
+7104,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,claudin-low,0,1
+7106,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+7107,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+7109,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,0
+7111,MASTECTOMY,Breast Invasive Ductal Carcinoma,Basal,0,0
+7112,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,1,0
+7113,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+7114,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Basal,0,1
+7115,MASTECTOMY,Breast Invasive Ductal Carcinoma,Her2,0,1
+7116,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,0
+7118,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+7119,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Basal,1,1
+7121,MASTECTOMY,Breast Invasive Ductal Carcinoma,claudin-low,1,1
+7122,MASTECTOMY,Breast Invasive Ductal Carcinoma,Basal,0,0
+7123,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+7124,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+7127,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Normal,0,1
+7128,MASTECTOMY,,LumA,0,0
+7130,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,1
+7131,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,0
+7132,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,0
+7133,BREAST CONSERVING,Breast Invasive Lobular Carcinoma,LumB,0,1
+7135,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Her2,1,1
+7137,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+7138,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,1
+7140,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,0
+7141,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+7142,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,0
+7143,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Her2,0,1
+7144,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,1
+7145,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Basal,1,1
+7147,MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,LumB,0,0
+7149,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,1
+7150,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,0
+7151,MASTECTOMY,Breast Invasive Ductal Carcinoma,Basal,0,0
+7152,MASTECTOMY,Breast Invasive Ductal Carcinoma,Her2,0,0
+7153,MASTECTOMY,Breast Invasive Ductal Carcinoma,Her2,0,0
+7154,MASTECTOMY,Breast Invasive Ductal Carcinoma,Basal,0,0
+7155,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Basal,1,1
+7157,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,1
+7158,MASTECTOMY,Breast Invasive Ductal Carcinoma,claudin-low,1,0
+7159,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Basal,1,1
+7160,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Her2,0,1
+7161,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+7162,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+7163,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,1,0
+7164,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+7165,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Basal,1,1
+7167,MASTECTOMY,Breast Invasive Ductal Carcinoma,Her2,0,1
+7168,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+7170,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+7171,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,1
+7172,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,0
+7173,MASTECTOMY,Breast Invasive Lobular Carcinoma,LumA,0,0
+7174,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,1
+7176,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+7181,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,1
+7182,MASTECTOMY,Breast Invasive Ductal Carcinoma,Her2,1,0
+7185,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+7186,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,0
+7187,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Normal,1,1
+7189,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,1,1
+7193,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,0
+7194,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,1,0
+7195,MASTECTOMY,Breast Invasive Lobular Carcinoma,LumA,0,0
+7196,MASTECTOMY,Breast Invasive Ductal Carcinoma,Her2,0,1
+7197,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,0
+7198,MASTECTOMY,Breast Invasive Ductal Carcinoma,Basal,0,0
+7199,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,0
+7200,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,1
+7201,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,claudin-low,0,1
+7205,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Basal,1,1
+7207,MASTECTOMY,Breast Invasive Ductal Carcinoma,Her2,1,1
+7208,MASTECTOMY,Breast Invasive Ductal Carcinoma,Basal,1,1
+7212,MASTECTOMY,Breast Invasive Lobular Carcinoma,LumA,0,0
+7215,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,claudin-low,0,1
+7216,MASTECTOMY,Breast Invasive Lobular Carcinoma,LumB,0,0
+7217,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+7218,BREAST CONSERVING,Breast Invasive Lobular Carcinoma,LumA,0,1
+7219,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,1
+7220,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,1
+7225,MASTECTOMY,Breast Invasive Ductal Carcinoma,Basal,1,1
+7226,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,1,0
+7227,MASTECTOMY,Breast Invasive Ductal Carcinoma,Normal,0,0
+7228,MASTECTOMY,Breast Invasive Ductal Carcinoma,Normal,0,0
+7229,MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,LumA,0,0
+7230,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+7231,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+7232,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+7233,MASTECTOMY,Breast Invasive Ductal Carcinoma,Her2,0,0
+7234,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,1
+7235,MASTECTOMY,Breast,LumA,0,0
+7236,BREAST CONSERVING,,LumB,0,1
+7237,MASTECTOMY,Breast Invasive Ductal Carcinoma,NC,0,0
+7238,MASTECTOMY,Breast Invasive Ductal Carcinoma,Her2,0,0
+7241,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,0
+7243,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+7244,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+7249,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+7250,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Her2,0,1
+7251,MASTECTOMY,Breast Invasive Ductal Carcinoma,Her2,0,0
+7252,MASTECTOMY,Breast Invasive Ductal Carcinoma,Her2,0,0
+7253,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,0
+7254,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+7256,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Her2,1,1
+7258,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Basal,1,1
+7260,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Her2,1,1
+7262,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Her2,0,0
+7263,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,1
+7264,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Normal,0,1
+7266,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,1
+7267,MASTECTOMY,Breast Invasive Ductal Carcinoma,Basal,1,1
+7268,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,1
+7269,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Basal,1,1
+7270,MASTECTOMY,Breast Invasive Ductal Carcinoma,Basal,1,0
+7273,BREAST CONSERVING,Breast Invasive Lobular Carcinoma,Her2,1,1
+7275,MASTECTOMY,Breast Invasive Ductal Carcinoma,Her2,1,0
+7276,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumA,0,1
+7277,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+7278,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+7279,MASTECTOMY,Breast Invasive Ductal Carcinoma,Her2,0,0
+7280,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+7281,MASTECTOMY,Breast Invasive Ductal Carcinoma,Her2,1,1
+7283,BREAST CONSERVING,Breast Invasive Lobular Carcinoma,LumB,1,1
+7284,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+7285,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,claudin-low,0,1
+7286,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,0
+7287,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,0
+7288,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,1
+7289,MASTECTOMY,Breast Invasive Ductal Carcinoma,Normal,0,0
+7291,MASTECTOMY,Breast Invasive Ductal Carcinoma,claudin-low,0,0
+7292,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,1
+7293,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumA,0,0
+7294,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,0
+7295,BREAST CONSERVING,Breast Invasive Lobular Carcinoma,LumA,0,1
+7296,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,1
+7297,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,1
+7298,MASTECTOMY,Breast Invasive Ductal Carcinoma,LumB,0,0
+7299,BREAST CONSERVING,Breast Invasive Ductal Carcinoma,LumB,0,1

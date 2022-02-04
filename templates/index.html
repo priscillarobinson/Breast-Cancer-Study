@@ -1,0 +1,375 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+        <meta name="description" content="" />
+        <meta name="author" content="" />
+        <title>Breast Cancer Survival Analytics</title>
+        <link rel="icon" type="image/x-icon" href="../static/assets/favicon.ico" />
+        <!-- Core theme CSS (includes Bootstrap)-->
+        <link href="static/css/styles.css" rel="stylesheet" />
+    </head>
+    <body id="page-top">
+        <!-- Navigation-->
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top" id="mainNav">
+            <div class="container px-4">
+                <a class="navbar-brand" href="#page-top">
+                    <div _ngcontent-iim-c371="" class="Header-logoText Header-logoText--Scrolled">Data<br>Visualization<br>Bootcamp</div>
+                </a>
+                <button class="navbar-toggler" type="button" data-b s-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
+                <div class="collapse navbar-collapse" id="navbarResponsive">
+                    <ul class="navbar-nav ms-auto">
+                        <li class="nav-item"><a class="nav-link" href="#Introduction">Introduction</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#Data Exploration">Data Exploration</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#Model Selection">Model Selection</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#Conclusion">Conclusion</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#Our_Team">Our Team</a></li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+        <!-- Header-->
+      
+        <header class="bg-primary bg-gradient text-white">
+            <div class="hero-image"></div>
+            <!-- <div style="background-image: url('Images/pic2.jpg');">  -->
+            <div class="hero-text">
+                <h1 class="font_4" style="line-height:1.25em;text-align:center;font-size:72px"><span class="color_32"><span style="font-weight:bold">BREAST CANCER&nbsp;<br>SURVIVAL ANALYTICS</span></span></h1>
+                <p class="lead">Developing Machine Learning Algorithms to Predict Survival</p>
+                <a class="btn btn-lg btn-light" href="{{ url_for('predict') }}">Start Assessment</a>
+            </div>                 
+        </header>
+    
+
+        <!-- Introduction section-->
+        <section id="Introduction">
+            <div class="container px-4">
+                <div class="row gx-4 justify-content-center">
+                    <div class="col-lg-8">
+                        <h2>Introduction</h2>
+                        <p class="lead">Breast cancer is the most common cancer worldwide and is a leading cause of cancer death for women. The purpose of this project was to analyze how accurate the various clinical characteristics predict survival and survival duration. The dataset used was obtained from <a href="https://www.kaggle.com/raghadalharbi/breast-cancer-gene-expression-profiles-metabric" target="_blank">Kaggle</a> and contains clinical data and gene expression profiles. </p>
+                        <ul>
+                            <li>1,904 breast cancer patients</li>
+                            <li>30 clinical attributes (not including patient id)</li>
+                            <li>mRNA levels Z-score for 489 genes</li>
+                            <li>mutation in 173 genes</li>                         
+                        </ul>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- Data Exploration section-->
+        <section class="bg-light" id="Data Exploration">
+            <div class="container px-4">
+                <div class="row gx-4 justify-content-center">
+                    <div class="col-lg-8">
+                        <h2>Data Exploration</h2>
+                        <p class="lead">The analysis aims to observe which features are most helpful in predicting patient survival and to see general trends that may aid us in model selection. To do this, the necessary libraries are imported as well as the dataset. Redundant columns and non-important features are dropped from the dataset and label encoder is used to label the categorical data into numbers. Pandas' visualization and r-programming is used to find the data distribution of the features. </p>
+                    </div>
+                </div>
+                <!-- overall distribution-->
+                <div class="col-lg-8 container plot justify-content-center ">
+                    <div class="card card-body bg-secondary text-white">
+                      <h5>
+                          Distribution of Overall Survival
+                      </h5>
+                      <div class="card-header">
+                        <div>
+                          <h6 class="card-title text-center border-bottom"></h6>
+                            <p class="card-text">
+                                The histograms show the distribution of overall survival months and overall survival outcomes of all patients.
+                                Patients died of other causes were excluded from machine learning prediction of survival outcome.
+                            </p>
+                        </div>
+                      </div>
+                      <div class="card-body row gx-4 justify-content-center">
+                        <div class="col-lg-8 container plot justify-content-center">
+                            <div id="histogram1" style="height: 300px; outline:none"></div>
+                        </div>
+                        <hr>
+                        <hr>
+                        <div class="col-lg-8 container plot justify-content-center">
+                            <div id="histogram2" style="height: 300px; outline:none"></div>
+                        </div>
+                      </div>
+                    </div>  
+                </div>
+                <br><br>
+                <!-- feature selection-->
+                <div class="col-lg-8 container plot justify-content-center ">
+                    <div class="card card-body bg-secondary text-white">
+                      <h5>
+                          Feature Selection
+                      </h5>
+                      <div class="card-header">
+                        <div>
+                          <h6 class="card-title text-center border-bottom"></h6>
+                            <p class="card-text">
+                                The violinplot shows how the status of ER, PR and HER2 may affect the outcome of survival.<br>
+                                The boxplot shows how tumor stage may affect the outcome of survival.
+                            </p>
+                        </div>
+                      </div>
+                      <div class="card-body row gx-4">
+                        <div class="col-lg-10 container plot justify-content-center ">
+                            <label id="boxplot1" style="height: 300px; width: 200px; outline:none"></label>
+                            <label id="boxplot2" style="height: 300px; width: 200px; outline:none"></label>
+                            <label id="boxplot3" style="height: 300px; width: 200px; outline:none"></label>
+                        </div>
+                        <hr>
+                        <hr>
+                        <div class="col-lg-8 container plot justify-content-center">
+                            <div id="boxplot4" style="height: 300px; outline:none"></div>
+                        </div>
+                      </div>
+                    </div>  
+                </div>
+                <br><br>
+                <!-- correlation matrix-->
+                <div class="col-lg-8 container plot justify-content-center ">
+                    <div class="card card-body bg-secondary text-white">
+                      <h5>
+                          Feature Correlation
+                      </h5>
+                      <div class="card-header">
+                        <div>
+                          <h6 class="card-title text-center border-bottom"></h6>
+                            <p class="card-text">
+                                With all of the clinial attributes, we would like to see if there are redundant features that need to be removed before downtream analysis. <br>
+                                A collection of 19 features is selected for supervised machine learning prediction.
+                            </p>
+                        </div>
+                      </div>
+                      <div class="card-body row gx-4">
+                        <div class="col-lg-7 container plot justify-content-center ">
+                            <img src="static/images/CorrelationMatrix.jpg" alt="correlationMatrix" style="height: 300px;">
+                        </div>
+                        <div class="col-lg-5">
+                        <p>
+                            <strong>Features (19):</strong><br>
+                                age_at_diagnosis<br>
+                                chemotherapy<br>
+                                neoplasm_histologic_grade<br>
+                                hormone_therapy<br>
+                                lymph_nodes_examined_positive<br>
+                                mutation_count <br>
+                                radio_therapy<br>
+                                tumor_size<br>
+                                tumor_stage encoded_type_of_breast_surgery<br>
+                                encoded_cancer_type_detailed encoded_cellularity<br>
+                                encoded_pam50_+_claudin-low_subtype <br>
+                                encoded_er_status<br>
+                                encoded_her2_status<br>
+                                encoded_tumor_other_histologic_subtype<br>
+                                encoded_inferred_menopausal_state<br>
+                                encoded_integrative_cluster<br>
+                                encoded_pr_status<br>
+
+                        </p>
+                    </div>
+                      </div>
+                    </div>  
+                </div>
+            </div>
+        </section>
+        <!-- Model Selection section-->
+        <section id="Model Selection">
+            <div class="container px-4">
+                <div class="row gx-4 justify-content-center">
+                    <div class="col-lg-8">
+                        <h2>Model Selection</h2>
+                        <p class="lead">
+                            We use classification algorithms of supervised learning with our our outcome variable having two sets of values, either live or die. 
+                            19 clinical attributes are used with the different type of models in Machine Learning including: 
+                            Logistic Regression, Support Vector Classification, Random Forest Classifier, AdaBoost Classifier, and XGBoost Classifier. 
+                            For each classification model, we will predict the test set results and check the accuracy using the confusion matrix. 
+                            In addition to testing surival of patients, the linear regression model was used to determine if there is a correlation to the overall survival time in months.  
+                        </p>
+                    </div>
+                </div>
+                <div class="row gx-4 justify-content-center">
+                    <div class="col-lg-8">
+                        <h4>Supervised Machine Learning</h4>
+                    </div>
+                </div>
+                <div class="col-lg-8 container plot justify-content-center ">
+                    <div class="card card-body bg-secondary text-white">
+                      <h5>
+                          Random Forest Classification
+                      </h5>
+                      <div class="card-header">
+                        <div>
+                          <h6 class="card-title text-center border-bottom"></h6>
+                            <p class="card-text">
+                                After applying the different classification models, the Random Forest Classifier produced the strongest accuracy at 0.686.
+                                Additionally, we found a weak relationship between the 19 clinical attributes and the length of survival time in months.
+                            </p>
+                        </div>
+                      </div>
+                      <div class="card-body row gx-4">
+                        <div class="col-lg-8 container plot justify-content-center ">
+                            <img src="static/images/rfc_model_results.jpg" alt="Random Forest Classification" class="container plot justify-content-center">
+                        </div>
+                        <hr>
+                        <div class="card-header">
+                            <div>
+                              <h6 class="card-title text-center border-bottom"></h6>
+                                <p class="card-text">
+                                    In order to discover which features have the strongest impact on the model a 
+                                    features importance graph was created to easily visualize each attribtues impact.   
+                                </p>
+                            </div>
+                          </div>
+                        <div class="col-lg-8 container plot justify-content-center">
+                            <img src="static/images/rfc_features_importance.jpg" alt="Features importance" class="container plot justify-content-center">
+                        </div>
+                      </div>
+                    </div>  
+                </div>
+                <br><br>
+                <!-- unsupervised machine learning-->
+                <div class="row gx-4 justify-content-center">
+                    <div class="col-lg-8">
+                        <h4>Unsupervised Machine Learning</h4>
+                    </div>
+                </div>
+                <div class="col-lg-8 container plot justify-content-center ">
+                    <div class="card card-body bg-secondary text-white">
+                      <h5>
+                          PCA vs LDA
+                      </h5>
+                      <div class="card-header">
+                        <div>
+                          <h6 class="card-title text-center border-bottom"></h6>
+                            <p class="card-text">
+                                Principal Component Analysis (PCA) <br>
+                                Identify the combination of attributes (principal components, or directions in the feature space) that account for the most variance in the data. 
+                                Explained variance ratio (first two components): [0.07960216 0.06701992]
+                            </p>
+                        </div>
+                      </div>
+                      <div class="card-body row gx-4">
+                        <div class="col-lg-8 container plot justify-content-center ">
+                            <img src="static/images/PCA_gene_expression.jpg" alt="PCA" class="container plot justify-content-center">
+                        </div>
+                        <hr>
+                        <div class="card-header">
+                            <div>
+                              <h6 class="card-title text-center border-bottom"></h6>
+                                <p class="card-text">
+                                    Linear Discriminant Analysis (LDA)  <br>
+                                    Identify attributes that account for the most variance between classes. 
+                                    A supervised method, using known class labels.  
+                                </p>
+                            </div>
+                          </div>
+                        <div class="col-lg-8 container plot justify-content-center">
+                            <img src="static/images/LDA_gene_expression.jpg" alt="LDA" class="container plot justify-content-center">
+                        </div>
+                      </div>
+                    </div>  
+                </div>
+                <br><br>
+                <div class="col-lg-8 container plot justify-content-center ">
+                    <div class="card card-body bg-secondary text-white">
+                      <h5>
+                          Hierarchical Clustering
+                      </h5>
+                      <div class="card-header">
+                        <div>
+                          <h6 class="card-title text-center border-bottom"></h6>
+                            <p class="card-text">
+                                With 489 z-score mRNA levels of gene expression, we would like to see if groups of patients share a common gene expression profile based on the clinical evaluation.
+                            </p>
+                        </div>
+                      </div>
+                      <div class="card-body row gx-4">
+                        <div class="col-lg-10 container plot justify-content-center ">
+                            <img src="static/images/heatmap.png" alt="heatmap" class="container plot justify-content-center">
+                        </div>
+                      </div>
+                    </div>  
+                </div>
+            </div>
+        </section>
+        <!-- Conclusion  section-->
+        <section id="Conclusion">
+            <div class="container px-4">
+                <div class="row gx-4 justify-content-center">
+                    <div class="col-lg-8">
+                        <h2>Conclusion</h2>
+                        <p class="lead">
+                            <ul>
+                                <li>Using Random Forest Classifier, we were able to predict breast cancer patient survival outcome based on the 19 clinicopathological features. </li>
+                            <br>
+                                <li>The top important features are identified including age, tumor size, mutation count, integrative cluster, and number of positive lymph nodes examined.</li>
+                            <br>
+                                <li>Dimensional reduction and hierarchical clustering are useful tools in genomic research to examine the gene expression data. We would like to extend these techniques for mutation data in the future. </li>
+                            <br>
+                                <li>The most significant genes altered in different subtypes of breast cancer based on the unsupervised machine learning models could be extracted. The unique gene expression signatures identified will have the potential to guide personalized treatments for breast cancer patients.</li>
+                            <br>
+                                <li>In the future, we hope to improve the accuracy of prediction with more breast cancer samples available. </li>
+                            </ul>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- Our Team section-->
+        <section id="Our_Team">
+            <div class="container px-4">
+                <div class="row gx-4 justify-content-center">
+                    <div class="col-lg-8">
+                        <h2>Meet the Team</h2>
+                        <p class="lead"></p>
+                    </div>
+                </div>
+                <div class="container mt-3">  
+            <div class="row">
+                <div class="col-md-1"></div>
+                <div class="box col-md-2" onclick="window.open(href=&quot;https://github.com/NickP20&quot;)">
+                    <img src="{{url_for('static', filename ='images/np.jpg')}}" alt="Nick" width="140" height="140" class="rounded-circle" style="filter: grayscale(90%);">
+                    <h4>Nick Prieto</h4>
+                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-4.466 19.59c-.405.078-.534-.171-.534-.384v-2.195c0-.747-.262-1.233-.55-1.481 1.782-.198 3.654-.875 3.654-3.947 0-.874-.312-1.588-.823-2.147.082-.202.356-1.016-.079-2.117 0 0-.671-.215-2.198.82-.64-.18-1.324-.267-2.004-.271-.68.003-1.364.091-2.003.269-1.528-1.035-2.2-.82-2.2-.82-.434 1.102-.16 1.915-.077 2.118-.512.56-.824 1.273-.824 2.147 0 3.064 1.867 3.751 3.645 3.954-.229.2-.436.552-.508 1.07-.457.204-1.614.557-2.328-.666 0 0-.423-.768-1.227-.825 0 0-.78-.01-.055.487 0 0 .525.246.889 1.17 0 0 .463 1.428 2.688.944v1.489c0 .211-.129.459-.528.385-3.18-1.057-5.472-4.056-5.472-7.59 0-4.419 3.582-8 8-8s8 3.581 8 8c0 3.533-2.289 6.531-5.466 7.59z"/></svg>
+                </div>
+                <div class="box col-md-2" onclick="window.open(href=&quot;https://github.com/ZiboZhao0804&quot;)">
+                    <img src="{{url_for('static', filename ='images/Zibo1.jpg')}}" alt="Zibo" width="140" height="140" class="rounded-circle" style="filter: grayscale(90%)">
+                    <h4>Zibo Zhao</h4>
+                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-4.466 19.59c-.405.078-.534-.171-.534-.384v-2.195c0-.747-.262-1.233-.55-1.481 1.782-.198 3.654-.875 3.654-3.947 0-.874-.312-1.588-.823-2.147.082-.202.356-1.016-.079-2.117 0 0-.671-.215-2.198.82-.64-.18-1.324-.267-2.004-.271-.68.003-1.364.091-2.003.269-1.528-1.035-2.2-.82-2.2-.82-.434 1.102-.16 1.915-.077 2.118-.512.56-.824 1.273-.824 2.147 0 3.064 1.867 3.751 3.645 3.954-.229.2-.436.552-.508 1.07-.457.204-1.614.557-2.328-.666 0 0-.423-.768-1.227-.825 0 0-.78-.01-.055.487 0 0 .525.246.889 1.17 0 0 .463 1.428 2.688.944v1.489c0 .211-.129.459-.528.385-3.18-1.057-5.472-4.056-5.472-7.59 0-4.419 3.582-8 8-8s8 3.581 8 8c0 3.533-2.289 6.531-5.466 7.59z"/></svg>
+                </div>
+                <div class="box col-md-2" onclick="window.open(href=&quot;https://github.com/helenaz0523&quot;)">
+                    <img src="{{url_for('static', filename ='images/Helena.jpg')}}" alt="Helena" width="140" height="140" class="rounded-circle" style="filter: grayscale(90%);">
+                    <h4>Helena Zhang</h4>
+                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-4.466 19.59c-.405.078-.534-.171-.534-.384v-2.195c0-.747-.262-1.233-.55-1.481 1.782-.198 3.654-.875 3.654-3.947 0-.874-.312-1.588-.823-2.147.082-.202.356-1.016-.079-2.117 0 0-.671-.215-2.198.82-.64-.18-1.324-.267-2.004-.271-.68.003-1.364.091-2.003.269-1.528-1.035-2.2-.82-2.2-.82-.434 1.102-.16 1.915-.077 2.118-.512.56-.824 1.273-.824 2.147 0 3.064 1.867 3.751 3.645 3.954-.229.2-.436.552-.508 1.07-.457.204-1.614.557-2.328-.666 0 0-.423-.768-1.227-.825 0 0-.78-.01-.055.487 0 0 .525.246.889 1.17 0 0 .463 1.428 2.688.944v1.489c0 .211-.129.459-.528.385-3.18-1.057-5.472-4.056-5.472-7.59 0-4.419 3.582-8 8-8s8 3.581 8 8c0 3.533-2.289 6.531-5.466 7.59z"/></svg>
+                </div>
+                <div class="box col-md-2" onclick="window.open(href=&quot;https://github.com/eugkik&quot;)">
+                    <img src="{{url_for('static', filename ='images/ek.jpg')}}" alt="Eugene" width="140" height="140" class="rounded-circle">
+                    <h4>Eugene Kikuchi</h4>
+                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-4.466 19.59c-.405.078-.534-.171-.534-.384v-2.195c0-.747-.262-1.233-.55-1.481 1.782-.198 3.654-.875 3.654-3.947 0-.874-.312-1.588-.823-2.147.082-.202.356-1.016-.079-2.117 0 0-.671-.215-2.198.82-.64-.18-1.324-.267-2.004-.271-.68.003-1.364.091-2.003.269-1.528-1.035-2.2-.82-2.2-.82-.434 1.102-.16 1.915-.077 2.118-.512.56-.824 1.273-.824 2.147 0 3.064 1.867 3.751 3.645 3.954-.229.2-.436.552-.508 1.07-.457.204-1.614.557-2.328-.666 0 0-.423-.768-1.227-.825 0 0-.78-.01-.055.487 0 0 .525.246.889 1.17 0 0 .463 1.428 2.688.944v1.489c0 .211-.129.459-.528.385-3.18-1.057-5.472-4.056-5.472-7.59 0-4.419 3.582-8 8-8s8 3.581 8 8c0 3.533-2.289 6.531-5.466 7.59z"/></svg>
+                </div>
+                <div class="box col-md-2" onclick="window.open(href=&quot;https://github.com/priscillarobinson&quot;)">
+                    <img src="{{url_for('static', filename ='images/PR.jpg')}}"alt="Priscilla" width="140" height="140" class="rounded-circle" style="filter: grayscale(90%);">
+                    <h4>Priscilla Robinson</h4>
+                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-4.466 19.59c-.405.078-.534-.171-.534-.384v-2.195c0-.747-.262-1.233-.55-1.481 1.782-.198 3.654-.875 3.654-3.947 0-.874-.312-1.588-.823-2.147.082-.202.356-1.016-.079-2.117 0 0-.671-.215-2.198.82-.64-.18-1.324-.267-2.004-.271-.68.003-1.364.091-2.003.269-1.528-1.035-2.2-.82-2.2-.82-.434 1.102-.16 1.915-.077 2.118-.512.56-.824 1.273-.824 2.147 0 3.064 1.867 3.751 3.645 3.954-.229.2-.436.552-.508 1.07-.457.204-1.614.557-2.328-.666 0 0-.423-.768-1.227-.825 0 0-.78-.01-.055.487 0 0 .525.246.889 1.17 0 0 .463 1.428 2.688.944v1.489c0 .211-.129.459-.528.385-3.18-1.057-5.472-4.056-5.472-7.59 0-4.419 3.582-8 8-8s8 3.581 8 8c0 3.533-2.289 6.531-5.466 7.59z"/></svg>
+                </div>
+                <div class="col-md-1"></div>
+            </div>
+        </section>
+        <!-- Footer-->
+        <footer class="py-5 bg-dark">
+            <div class="container px-4"><p class="m-0 text-center text-white">Copyright &copy; Your Website 2021</p></div>
+        </footer>
+        <!-- Bootstrap core JS-->
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+        <!--d3 and plotly-->
+        <script src="https://d3js.org/d3.v5.min.js"></script>
+        <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+        <script type="text/javascript" src="static/js/plots.js"></script>
+        <!-- Core theme JS-->
+        <script type="text/javascript" src="static/js/scripts.js"></script>
+
+
+    </body>
+</html>
